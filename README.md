@@ -1,6 +1,8 @@
 # jenyiyu.github.io
 
-# Introduction
+## About Me
 
-# Projects
+## Recent Projects
 * ["hateGirl?"](http://jenyiyu.github.io/hateGirl)
+
+## Publications
