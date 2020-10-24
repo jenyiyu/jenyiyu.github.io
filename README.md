@@ -9,4 +9,3 @@
 ## Past
 * ["hateGirl?"]()
 
-# Publications
