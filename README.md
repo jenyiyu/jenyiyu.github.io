@@ -3,11 +3,11 @@
 
 *[20201107 女書店 「做」女性主義的多部曲]()
 
-*[20201109 數位生活記錄Week10]()
+*[20201116 數位生活記錄Week11](https://docs.google.com/presentation/d/e/2PACX-1vSGkpMY0XCuclgfHuuxQ8tPVdxWUUR9f9FNimVWTzijYMkh1u1zAbFVjMVEnGR-aZ9yZuOEQbLznW7I/pub?start=false&loop=false&delayms=3000)
 
 *[20201112 媒介與時間]()
 
-*[20201112 性別醫療與健康Week11](https://docs.google.com/presentation/d/e/2PACX-1vTyT9jzPMVT1949YL94UE4rsfW9Z5ZxaP7m9kkIXg883duO3fo0T11KuXUimrt0U-d-ohy2CBYLS3zq/pub?start=false&loop=false&delayms=3000)
+*[20201112 性別醫療與健康Week11]()
 # Projects
 
 ## Recent Projects
