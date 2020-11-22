@@ -3,13 +3,13 @@
 
 *[20201107 女書店 「做」女性主義的多部曲]()
 
-*[20201116 數位生活記錄Week11](https://docs.google.com/presentation/d/e/2PACX-1vSGkpMY0XCuclgfHuuxQ8tPVdxWUUR9f9FNimVWTzijYMkh1u1zAbFVjMVEnGR-aZ9yZuOEQbLznW7I/pub?start=false&loop=false&delayms=3000)
+*[20201116 數位生活記錄Week12](https://docs.google.com/presentation/d/e/2PACX-1vQdCOVDLAwBrb9FAMIMIW03bCn6hmtjDMcO-AoIyruM_ytxbhUPp42KtxyG7muxaMB-xRNOLULy-5pB/pub?start=false&loop=false&delayms=3000)
 
 *[20201112 媒介與時間]()
 
-*[20201117 性別與健康Week11](https://docs.google.com/presentation/d/e/2PACX-1vT1uyZgVgU6LKAHBp851BQHcf-vVrPQH9c_rdjsQACn35AL7IUTLecw3nh3As5chw8ngmQlkv2rfjID/pub?start=false&loop=false&delayms=3000)
+*[20201117 性別與健康Week11]()
 
-*[20201117 台灣社會議題Week11](https://docs.google.com/presentation/d/e/2PACX-1vTlNhUAz4e_vjFafuLdbrNvuF-z2kqY5RLfVe0dYOhtBdJrEBvsj77fmF_8nK3DysNd8I9EsEpVoDLN/pub?start=false&loop=false&delayms=3000)
+*[20201117 台灣社會議題Week11]()
 # Projects
 
 ## Recent Projects
