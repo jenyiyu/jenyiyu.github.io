@@ -7,11 +7,13 @@
 
 *[20201112 媒介與時間]()
 
-*[20201201 性別與健康Week13](https://docs.google.com/presentation/d/e/2PACX-1vQPvlvPjFvCWMrAR21SWi4e6zyXhPlUFuhruvvj1FPvMzebhjZ40ScaJmJMZbo6ODPpJp5OzXMAZsf5/pub?start=false&loop=false&delayms=3000)
+*[20201201 性別與健康Week13]()
 
-*[20201201 台灣社會議題Week13](https://docs.google.com/presentation/d/e/2PACX-1vQz45H3VOe2rZ-15q2kH7dWY1V8zn1bnwXfz13dppGB8qcnYMEIcQxALo_SDOCPz6z10qugOFg72ctA/pub?start=false&loop=false&delayms=3000)
+*[20201201 台灣社會議題Week13]()
 
 *[20201127 中研院農村社會文化調查研討會 再現浪漫台三線]()
+
+*[20201203 性別醫療與健康Week13](https://docs.google.com/presentation/d/e/2PACX-1vQ_is-ypzkdvRzzwfZ6tOgCzNUV2-TWL9OWki7nlcsz_47AKDsYZaSBFTF4GannDZI322yrlEQI6lz6/pub?start=false&loop=false&delayms=3000)
 # Projects
 
 ## Recent Projects
