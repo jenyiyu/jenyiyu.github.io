@@ -3,13 +3,13 @@
 
 *[20201107 女書店 「做」女性主義的多部曲]()
 
-*[20201214 數位生活記錄Week15](https://docs.google.com/presentation/d/e/2PACX-1vSQlPOG2t7Uphkims52wscbsriZ4SeJHSyoq183nhyx8Y4AcwMIuOkPGlgUpY6NilPuhAmjgHW9ncld/pub?start=false&loop=false&delayms=3000)
+*[20201214 數位生活記錄Week15]()
 
 *[20201112 媒介與時間]()
 
-*[20201208 性別與健康Week14]()
+*[20201215 性別與健康Week15]()
 
-*[20201208 台灣社會議題Week14]()
+*[20201215 台灣社會議題Week15](https://docs.google.com/presentation/d/e/2PACX-1vQZDgKloBwyDEtyXahk22a0FmEkiD6kQYA3sLfi8_3zAKPQlOIjiNPncKQilNdNqA0UNjzlUg4KtbAY/pub?start=false&loop=false&delayms=3000)
 
 *[20201127 中研院農村社會文化調查研討會 再現浪漫台三線]()
 
