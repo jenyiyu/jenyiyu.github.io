@@ -13,7 +13,7 @@
 
 *[20201127 中研院農村社會文化調查研討會 再現浪漫台三線]()
 
-*[20201210 性別醫療與健康Week14]()
+*[20201210 性別醫療與健康Week14](https://docs.google.com/presentation/d/e/2PACX-1vSjEB0TbTP54-KVWHd4mUUZF93L1CG46HMneXOvi-QrcdVoBdkkzCBv3AQDM6po4BD6az7TwPlBpkwp/pub?start=false&loop=false&delayms=3000)
 
 *[20201208 NSYSU 量化自我 從自我追蹤到人機互動]()
 
