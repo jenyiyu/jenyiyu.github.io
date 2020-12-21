@@ -7,9 +7,9 @@
 
 *[20201112 媒介與時間]()
 
-*[20201215 性別與健康Week15](https://docs.google.com/presentation/d/e/2PACX-1vSB7fxTmMGa2Kj6vwhQjGLCk2JHq98ZxrJ-e9AHK-oKiwCb9xNaoArQtp3whFfY8NqwwT454PHLyNlF/pub?start=false&loop=false&delayms=3000)
+*[20201222 性別與健康Week16](https://docs.google.com/presentation/d/e/2PACX-1vQmVFkZetff54qSdk941WaBH_64YCsv1gZiRse9-1hZd8FzW9IfNzUo9roJnVqn5y_hjNv_-30eqvdB/pub?start=false&loop=false&delayms=3000)
 
-*[20201215 台灣社會議題Week15](https://docs.google.com/presentation/d/e/2PACX-1vQZDgKloBwyDEtyXahk22a0FmEkiD6kQYA3sLfi8_3zAKPQlOIjiNPncKQilNdNqA0UNjzlUg4KtbAY/pub?start=false&loop=false&delayms=3000)
+*[20201222 台灣社會議題Week16](https://docs.google.com/presentation/d/e/2PACX-1vQZDgKloBwyDEtyXahk22a0FmEkiD6kQYA3sLfi8_3zAKPQlOIjiNPncKQilNdNqA0UNjzlUg4KtbAY/pub?start=false&loop=false&delayms=3000)
 
 *[20201127 中研院農村社會文化調查研討會 再現浪漫台三線]()
 
