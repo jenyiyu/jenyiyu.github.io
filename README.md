@@ -4,7 +4,7 @@
 
 *[20210310 性別與科技Week3 ](https://docs.google.com/presentation/d/e/2PACX-1vTY1REct9sd-x001-HfkdbgPm8tjGh8HewGC3hGCbHqhiygqAYCWf_2eDQfU6pG_eept0uY_masdPEn/pub?start=false&loop=false&delayms=3000)
 
-*[20210312 社會學Week3]()
+*[20210312 社會學Week3](https://docs.google.com/presentation/d/e/2PACX-1vQZuPNv_y8f1NKIHwTKo8BmHu0SN3gNZ-CRMjCHvQuiob1vtUNAH4r-VGbZ9Vm801E8k1Lj0ATWTn8G/pub?start=false&loop=false&delayms=3000)
 
 *[20201208 NSYSU 量化自我 從自我追蹤到人機互動]()
 
