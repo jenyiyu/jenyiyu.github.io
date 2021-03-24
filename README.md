@@ -8,6 +8,8 @@
 
 *[20210316 醫療社會學Week4]()
 
+*[20210327 做女性主義的多部曲 ](https://docs.google.com/presentation/d/e/2PACX-1vRoQ_9iSWQ-28NbUZ1GSQnO5fYu6GmKouy_55RJ9eAeTkSMLE61OEP_oQX0U4cKtOcAqHgApKtq_wiW/pub?start=false&loop=false&delayms=3000)
+
 *[20201208 NSYSU 量化自我 從自我追蹤到人機互動]()
 
 # Projects
