@@ -4,7 +4,7 @@
 
 *[20210324 性別與科技Week5 ](https://docs.google.com/presentation/d/e/2PACX-1vSou4-jruQqW26noK7OXi_9Lk0QE8qqV7Tv6morQvHtz0KEsoEUczkSKEMyMhffgtFI6I_63o-cl1zE/pub?start=false&loop=false&delayms=3000)
 
-*[20210326 社會學Week5]()
+*[20210326 社會學Week5](https://docs.google.com/presentation/d/e/2PACX-1vSvREdX_dW0g6JThtFQNuc_YTMW3zuYsnk5JzplyjFOzIn3oWEnrwNRz3WVrEZmSZro8M_bAwUOQdf7/pub?start=false&loop=false&delayms=3000)
 
 *[20210316 醫療社會學Week4]()
 
