@@ -1,7 +1,5 @@
 # Presentation
 
-*[20210330 FJU](https://docs.google.com/presentation/d/e/2PACX-1vQ0U3YKfQ7it5jYDn78IUlRllOb3UTLqTg1NUSmNs1AFyrFgSqM97PfQiTNy1l_ihBYnMGsPbQwfy_u/pub?start=false&loop=false&delayms=3000)
-
 *[20210324 科技與性別化創新Week 5]()
 
 *[20210324 性別與科技Week5 ]()
