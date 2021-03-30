@@ -1,10 +1,10 @@
 # Presentation
 
-*[20210324 科技與性別化創新Week 5]()
+*[20210331 科技與性別化創新Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTjP8icH6UUIA8jEDQ4amW-yWqf7MamqXTk0ew_7q1frPYgeOHa6bYzXukJN4N6F4q3gWZXIlY8MXMM/pub?start=false&loop=false&delayms=3000)
 
-*[20210324 性別與科技Week5 ]()
+*[20210331 性別與科技Week6 ]()
 
-*[20210326 社會學Week5]()
+*[20210326 社會學Week7]()
 
 *[20210316 醫療社會學Week4]()
 
