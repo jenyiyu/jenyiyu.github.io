@@ -4,7 +4,7 @@
 
 *[20210407 科技與性別化創新Week 7](https://docs.google.com/presentation/d/e/2PACX-1vQ9VJk_4gKDAn49iFkiOaJao-toq76fPQAvFDIV3z21DDgbGkLogegyBBOhvPGZiXzWxBp32MxOkJBD/pub?start=false&loop=false&delayms=3000)
 
-*[20210407 性別與科技Week7 ]()
+*[20210407 性別與科技Week7 ](https://docs.google.com/presentation/d/e/2PACX-1vT5NOHaOOfQjwvbxPhzAMtRnHIPJ_qrqCpx5rTXIteBIiIHhaagPsKxkcRlHsZZxIqxDBHCzWupJUyl/pub?start=false&loop=false&delayms=3000)
 
 *[20210409 社會學Week7]()
 
