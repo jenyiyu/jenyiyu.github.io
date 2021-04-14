@@ -2,7 +2,7 @@
 
 *[202104014 科技與性別化創新Week 8](https://docs.google.com/presentation/d/e/2PACX-1vTWKoX57LJyiXwaNjTZ1GFU0T09sZ9aZcibuRDIOQymfvCuV6qt0MfZ_aNkJX9NwmRrJ54FOUUpB1GR/pub?start=false&loop=false&delayms=3000)
 
-*[20210414 性別與科技Week8 ]()
+*[20210414 性別與科技Week8 ](https://docs.google.com/presentation/d/e/2PACX-1vTNI-9LktdPw2P6q7o1hpZZkD4Zue6hWznvxEmW_Dw6OlGA-is_8pG28HuYh2jFqF4MGU4-J3cExfxB/pub?start=false&loop=false&delayms=3000)
 
 *[202104016 社會學Week8]()
 
