@@ -10,6 +10,8 @@
 
 *[20210419 用演算法認識世界 如何用數據為善？](https://docs.google.com/presentation/d/e/2PACX-1vSLJZVmtYqoJhbjWrKj6FVXweKZSkSDdaMu1YvF615R2eBEm0iTRK4JgEWY0OxrDCxvDtx3c0tQ2KEp/pub?start=false&loop=false&delayms=3000)
 
+*[20210419 用數據說故事 Tableau視覺化工具之簡介與操作](https://docs.google.com/presentation/d/e/2PACX-1vQbwQ10HIJOZybXSswAcX2XNe76A-kYv3wd0daqHABXOHheT9rwzM7pgdyQt3FKPdlh5xMRApe1HmiE/pub?start=false&loop=false&delayms=3000)
+
 *[20201208 NSYSU 量化自我 從自我追蹤到人機互動]()
 
 # Projects
