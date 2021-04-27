@@ -2,9 +2,9 @@
 
 *[202104028 科技與性別化創新Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRG9aSuR2wQ8EMGGDhSZCK13kVcJmcQhirbs98DEhPtPwCUIU1S3jh1CGRB5tIS24oXY9d8GnqQbF7g/pub?start=false&loop=false&delayms=3000)
 
-*[20210428 性別與科技Week9 ]()
+*[20210428 性別與科技Week10 ]()
 
-*[202104016 社會學Week8]()
+*[202104030 社會學Week10]()
 
 *[20210413 醫療社會學Week8]()
 
