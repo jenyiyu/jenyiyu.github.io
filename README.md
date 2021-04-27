@@ -1,8 +1,8 @@
 # Presentation
 
-*[202104014 科技與性別化創新Week 8]()
+*[202104028 科技與性別化創新Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRG9aSuR2wQ8EMGGDhSZCK13kVcJmcQhirbs98DEhPtPwCUIU1S3jh1CGRB5tIS24oXY9d8GnqQbF7g/pub?start=false&loop=false&delayms=3000)
 
-*[20210421 性別與科技Week9 ](https://docs.google.com/presentation/d/e/2PACX-1vTiaHTNDCxPmtkZxw_YSEB0LAzo2S3ZAVUrphLgeErgy2XWIxty9GsLeSf7XI-Yz-1VjkGsdQPrnukJ/pub?start=false&loop=false&delayms=3000)
+*[20210428 性別與科技Week9 ]()
 
 *[202104016 社會學Week8]()
 
