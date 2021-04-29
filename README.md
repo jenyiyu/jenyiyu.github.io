@@ -1,10 +1,10 @@
 # Presentation
 
-*[202104028 科技與性別化創新Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRG9aSuR2wQ8EMGGDhSZCK13kVcJmcQhirbs98DEhPtPwCUIU1S3jh1CGRB5tIS24oXY9d8GnqQbF7g/pub?start=false&loop=false&delayms=3000)
+*[202104028 科技與性別化創新Week 10]()
 
 *[20210428 性別與科技Week10 ]()
 
-*[202104030 社會學Week10]()
+*[20210430 社會學Week10](https://docs.google.com/presentation/d/e/2PACX-1vQteyAyMQjYfFKgdJcyqWq9Rk8OYYZVSW8QLVuPZqq9aKpuLVYNhunVYzgDb6JGO7V9pKE9dACdRZu1/pub?start=false&loop=false&delayms=3000)
 
 *[20210413 醫療社會學Week8]()
 
