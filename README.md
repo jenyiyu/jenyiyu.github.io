@@ -12,7 +12,7 @@
 
 *[20210419 用數據說故事 Tableau視覺化工具之簡介與操作]()
 
-*[20210211 NTU 從量化自我到人機互動](https://docs.google.com/presentation/d/e/2PACX-1vQIjGeA0w24KpCdxpFiuthEUL71wF7kb6leuwVv4sBhtWZQo9mfPCqHHGwgHQ0O6S3VUJi4XeGyWNaK/pub?start=false&loop=false&delayms=3000)
+*[20210511 NTU 從量化自我到人機互動](https://docs.google.com/presentation/d/e/2PACX-1vQIjGeA0w24KpCdxpFiuthEUL71wF7kb6leuwVv4sBhtWZQo9mfPCqHHGwgHQ0O6S3VUJi4XeGyWNaK/pub?start=false&loop=false&delayms=3000)
 
 # Projects
 
