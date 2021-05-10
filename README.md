@@ -2,7 +2,7 @@
 
 *[20210505 科技與性別化創新Week 11](https://docs.google.com/presentation/d/e/2PACX-1vQKKCU-LO4eg_gb-rgucBbEq7fxHXdV_2AIfPIpFXQd543UZioJePaRJHx9E8-CNu180tQrY4zxrNli/pub?start=false&loop=false&delayms=3000)
 
-*[20210512 性別與科技Week12 ])
+*[20210512 性別與科技Week12 ]()
 
 *[20210514 社會學Week12]()
 
