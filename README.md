@@ -4,6 +4,8 @@
 
 *[20210512 性別與科技Week12 ]()
 
+*[臉書打卡與國家打造](https://docs.google.com/presentation/d/e/2PACX-1vRbsOjlbJ4VwbrOczAfX9LA_CRRgRsJHNsI7JnewNi_yVcTfjo0GwZHnrFyx9G_772stst3DjgMRnMt/pub?start=false&loop=false&delayms=3000)
+
 *[20210514 社會學Week12]()
 
 *[20210413 醫療社會學Week8]()
