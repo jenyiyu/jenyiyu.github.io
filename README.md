@@ -1,11 +1,15 @@
 # Presentation
-*[20211122 數位生活記錄Week10]()
+*[20211129 數位生活記錄Week11]()
 
-*[20211123 性別與健康Week10](https://docs.google.com/presentation/d/e/2PACX-1vQVGvqgCypjpUnPb0A7pYakP-4QQbX25eTHMZaGE8WmrUQUeTWxBbhhhe0cLcWGduXXkAEGSFjblqf5/pub?start=false&loop=false&delayms=3000)
+*[20211129 性別醫療與健康 Week11]()
 
-*[20211122 性別醫療與健康 Week10]()
+*[20211130 性別與健康Week11]()
 
-*[20211123 台灣社會議題Week10](https://docs.google.com/presentation/d/e/2PACX-1vRqOJFO3xjn3PqFCG6aeXvWshTjeFv56StJrGulLzKsdqh7Pot2igySvYzvXk4uGD7_WkbmKIOorFO7/pub?start=false&loop=false&delayms=3000)
+*[20211130 台灣社會議題Week11]()
+
+*[20211127 智慧穿戴裝置作為健康的中介](https://docs.google.com/presentation/d/e/2PACX-1vQpejeu8ZvyzcbFVXbWKcUkPVa7qlT2sJWkLrXcYAwG5FiU0YzpQSrrT_wOrnzKutqj5HRf1_eIbPLd/pub?start=false&loop=false&delayms=3000)
+
+*[20211127 新聞敘事的手機意義結構變遷](https://docs.google.com/presentation/d/e/2PACX-1vTV3Fj1ZYNQ2lfFXyQdKHZEdGpaFT9G6mocmYA1Wpb-i3JulBbvVLb9yG-bjiQ0n_p1DE5yHTTb6q0v/pub?start=false&loop=false&delayms=3000)
 
 *[20211118 演算法政治與數據女性主義]()
 
