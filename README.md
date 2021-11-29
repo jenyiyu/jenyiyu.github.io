@@ -1,9 +1,9 @@
 # Presentation
 *[20211129 數位生活記錄Week11]()
 
-*[20211129 性別醫療與健康 Week11](https://docs.google.com/presentation/d/e/2PACX-1vTQFtiyQrMpXMtVmPx3sFB4oY7maMZyWNoV3WtG8CrieeEKoZ3m2lKokiqJYlGHB_2dH8jnQTkL0puA/pub?start=false&loop=false&delayms=3000)
+*[20211129 性別醫療與健康 Week11]()
 
-*[20211130 性別與健康Week11]()
+*[20211130 性別與健康Week11](https://docs.google.com/presentation/d/e/2PACX-1vQdPdsbDLPXXCZltXclebLNKHxnUNeMxUBQ0sj2nUAslvXR8hP1GB77eLun90wSrbrgDSpaD0LggGjS/pub?start=false&loop=false&delayms=3000)
 
 *[20211130 台灣社會議題Week11]()
 
