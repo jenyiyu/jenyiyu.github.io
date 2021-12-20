@@ -1,11 +1,11 @@
 # Presentation
 *[20211220 數位生活記錄Week14]()
 
-*[20211220 性別醫療與健康 Week14](https://docs.google.com/presentation/d/e/2PACX-1vTidDFeZ0GN9iXzYfc88DwAhVezkPR8tehPYJ7nDaFLLSDTjCC6ie3NEOnKuiyZBMpEpwDfSWAOEkqy/pub?start=false&loop=false&delayms=3000)
+*[20211220 性別醫療與健康 Week14]()
 
 *[20211221 性別與健康Week14]()
 
-*[20211221 台灣社會議題Week14]()
+*[20211221 台灣社會議題Week14](https://docs.google.com/presentation/d/e/2PACX-1vSz8zy1THwwD6BAFNfVcgfFwGPb2nypH5Jwd0JxuwVtnQn7Z0p4sIoJnNCwmk-ZnxBBBzJ1MlO9EdSq/pub?start=false&loop=false&delayms=3000)
 
 *[20211201 NTNU女權自助餐？]()
 
