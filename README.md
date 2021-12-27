@@ -1,7 +1,7 @@
 # Presentation
-*[20211227 數位生活記錄Week15](https://docs.google.com/presentation/d/e/2PACX-1vSQlPOG2t7Uphkims52wscbsriZ4SeJHSyoq183nhyx8Y4AcwMIuOkPGlgUpY6NilPuhAmjgHW9ncld/pub?start=false&loop=false&delayms=3000)
+*[20211227 數位生活記錄Week15]()
 
-*[20211227 性別醫療與健康 Week15]()
+*[20211227 性別醫療與健康 Week15](https://docs.google.com/presentation/d/e/2PACX-1vQlOdSTpyS_wFz96otzpmaR8MI_cD2Ep16bCtYyWGGmz2m5c6fkLWuyTwe67LzEM1vEGQoXkq6vzisN/pub?start=false&loop=false&delayms=3000)
 
 *[20211228 性別與健康Week15]()
 
