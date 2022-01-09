@@ -1,5 +1,5 @@
 # Presentation
-*[20220103 數位生活記錄Week16]()
+*[20220110 數位生活記錄Week17](https://docs.google.com/presentation/d/e/2PACX-1vR4B98x4tZDxqrvxhXs4XJx9mQkWtLHAugZRElYlp20juJVMq7dctSfMbVQMY42ViUCMwx4zLjfZuuZ/pub?start=false&loop=false&delayms=3000)
 
 *[20220103 性別醫療與健康 Week16]()
 
@@ -7,7 +7,7 @@
 
 *[20220104 台灣社會議題Week16]()
 
-*[20220106 SHU醫療與性別化創新](https://docs.google.com/presentation/d/e/2PACX-1vTh2SgUBh4SSkSsJaJyxb-2mgWWaWd8xBAvWEffJvMP-4aT4t1VNSZyijeTgeongWQxH2eluURi0JmK/pub?start=false&loop=false&delayms=3000)
+*[20220106 SHU醫療與性別化創新]()
 
 *[20211201 NTNU女權自助餐？]()
 
