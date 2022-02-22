@@ -1,17 +1,9 @@
 # Presentation
-*[20220110 數位生活記錄Week17](https://docs.google.com/presentation/d/e/2PACX-1vR4B98x4tZDxqrvxhXs4XJx9mQkWtLHAugZRElYlp20juJVMq7dctSfMbVQMY42ViUCMwx4zLjfZuuZ/pub?start=false&loop=false&delayms=3000)
+*[20220223 科技與性別化創新Week1](https://docs.google.com/presentation/d/e/2PACX-1vQO9k0Snafp94MovF1sLKfX4f1B0mBcSOymVarajyZZWpxdgy_oAwje7qB1UOBDjzP0Hgkmk4EBofcK/pub?start=false&loop=false&delayms=3000)
 
-*[20220103 性別醫療與健康 Week16]()
+*[20220224 工作身體與時空 Week1]()
 
-*[20220104 性別與健康Week16]()
-
-*[20220104 台灣社會議題Week16]()
-
-*[20220106 SHU醫療與性別化創新]()
-
-*[20211201 NTNU女權自助餐？]()
-
-*[20211209 資訊科技與溝通世代]()
+*[20220225 社會學Week1]()
 
 *[20211127 智慧穿戴裝置作為健康的中介]()
 
