@@ -1,9 +1,9 @@
 # Presentation
 *[20220223 科技與性別化創新Week1]()
 
-*[20220224 工作身體與時空 Week1](https://docs.google.com/presentation/d/e/2PACX-1vSWxWxkr9Ya4u1pQ_4SW4Eg0cQ5R2ZSr-YW8gARoSJzf4TUzQnKEQgBt2Lj-3DRcuKzLbov28_IlWNS/pub?start=false&loop=false&delayms=3000)
+*[20220224 工作身體與時空 Week1](0)
 
-*[20220225 社會學Week1]()
+*[20220225 社會學Week1](https://docs.google.com/presentation/d/e/2PACX-1vSQ8vcwdHozu22SjXPnPdOTtiPvK3JiCkPFi1Rdc5_4R4nxC01ODg7HePc9DIPIS1xfr_C5r2shEqzp/pub?start=false&loop=false&delayms=3000)
 
 *[20211127 智慧穿戴裝置作為健康的中介]()
 
