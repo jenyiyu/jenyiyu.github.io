@@ -3,7 +3,7 @@
 
 *[20220303 工作身體與時空 Week2](https://docs.google.com/presentation/d/e/2PACX-1vTlFgolRKcmYcEni8iT9CISjZFGFQUiqoniAY7EsTq52LLGv-OTrL-B933QwlGHQIqvhfUMNbCuRpo0/pub?start=false&loop=false&delayms=3000)
 
-*[20220304 社會學Week2]()
+*[20220304 社會學Week2](https://docs.google.com/presentation/d/e/2PACX-1vTBNtrBw09kzJIO1BIVE0yofrA4eMI6hUOBBz0D3XvsykrvZS8FhkEuHTMiovIQxw535pQ1FqkpxEKk/pub?start=false&loop=false&delayms=3000)
 
 *[20211127 智慧穿戴裝置作為健康的中介]()
 
