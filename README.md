@@ -1,7 +1,7 @@
 # Presentation
-*[20220330 科技與性別化創新Week6](https://docs.google.com/presentation/d/e/2PACX-1vTjP8icH6UUIA8jEDQ4amW-yWqf7MamqXTk0ew_7q1frPYgeOHa6bYzXukJN4N6F4q3gWZXIlY8MXMM/pub?start=false&loop=false&delayms=3000)
+*[20220330 科技與性別化創新Week6]()
 
-*[20220331 工作身體與時空 Week6]()
+*[20220331 工作身體與時空 Week6](https://docs.google.com/presentation/d/e/2PACX-1vTDKBMt5ziAXXsRAFNaR3hTjLhFus6e183UGQp0Z436r5E99PnHL6ukaVgnWb2lXQ5lD7ST-b94Qp5H/pub?start=false&loop=false&delayms=3000)
 
 *[20220401 社會學Week6]()
 
