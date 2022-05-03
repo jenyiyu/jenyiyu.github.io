@@ -3,7 +3,7 @@
 
 *[20220414 工作身體與時空 Week8]()
 
-*[20220415 社會學Week8](https://docs.google.com/presentation/d/e/2PACX-1vQteyAyMQjYfFKgdJcyqWq9Rk8OYYZVSW8QLVuPZqq9aKpuLVYNhunVYzgDb6JGO7V9pKE9dACdRZu1/pub?start=false&loop=false&delayms=3000)
+*[20220415 社會學Week8]()
 
 *[20211127 智慧穿戴裝置作為健康的中介]()
 
@@ -15,6 +15,7 @@
 
 *[20210419 用數據說故事 Tableau視覺化工具之簡介與操作]()
 
+*[20220503 從敘事到數據](https://docs.google.com/presentation/d/e/2PACX-1vRgwDGB_fUiXsfVP8oA8z5Y3vQPgDbuqsq7_zJ_q3E1qz5WGghjf77uZy0Pfqbc_ghk6w3MRGEaV4AC/pub?start=false&loop=false&delayms=3000)
 
 # Projects
 
