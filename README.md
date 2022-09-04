@@ -1,13 +1,11 @@
 # Presentation
-*[202205018 科技與性別化創新Week13](https://docs.google.com/presentation/d/e/2PACX-1vTT_psyJ870vO45nvgxgkWCjWHygIzd2Qa6E53gYUtf9qBvsFGkS2TnWrMy6q7jlZof4Esx9HuANPw7/pub?start=false&loop=false&delayms=3000)
+*[20220905 數位生活記錄Week1](https://docs.google.com/presentation/d/e/2PACX-1vQEDNTjxXmyR-ypA18bHFP1IrdQ3GOiePRPBbiL8q1D5JZx_LIHwkt0Ljdb6RXTba3_XzdIAzMGGIbf/pub?start=false&loop=false&delayms=3000)
 
-*[20220519 工作身體與時空 Week13]()
+*[20220905 性別醫療與健康 Week1]()
 
-*[20220520 社會學Week13]()
+*[20220906 性別大數據與視覺化Week1]()
 
-*[20211127 智慧穿戴裝置作為健康的中介]()
-
-*[20211127 新聞敘事的手機意義結構變遷]()
+*[20211127 社會學]()
 
 *[20211118 演算法政治與數據女性主義]()
 
