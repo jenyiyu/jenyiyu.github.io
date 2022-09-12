@@ -1,7 +1,7 @@
 # Presentation
-*[20220912 數位生活記錄Week2](https://docs.google.com/presentation/d/e/2PACX-1vRVJG32SscKoldvFycepQObdV2rDg1tDBvG2TkGypeWhnVWxZncT-UUgLZDENxxAreGvKWe3kpQXBc5/pub?start=false&loop=false&delayms=3000)
+*[20220912 數位生活記錄Week2]()
 
-*[20220912 性別醫療與健康 Week2]()
+*[20220912 性別醫療與健康 Week2](https://docs.google.com/presentation/d/e/2PACX-1vSpdumI6YzHuTW3gQLwNQxDydLGDI_3wUAtcMNfwybub0exUrC-33kkka_-IobH08dge4qhq7JpI7dZ/pub?start=false&loop=false&delayms=3000)
 
 *[20220913 性別大數據與視覺化Week2]()
 
