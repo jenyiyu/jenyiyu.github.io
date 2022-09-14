@@ -3,7 +3,9 @@
 
 *[20220912 性別醫療與健康 Week2]()
 
-*[20220913 性別大數據與視覺化Week2](https://docs.google.com/presentation/d/e/2PACX-1vQhfdyMoZ463J1wzSodMaytOw7cAKnitYKoBJQFBAXpxD4WXCreReXd2JyAgDjFoifmpV82BAoIrXXr/pub?start=false&loop=false&delayms=3000)
+*[20220913 性別大數據與視覺化Week2]()
+
+*[20220915 人社院110學年度優良教師候選報告](https://docs.google.com/presentation/d/e/2PACX-1vRj8OigxBEFYwI5W7yNJ7-tavzUbzxgmRODSYAix2U94QE8bFfAK8MqLREyMuumBWD1QN07BzDR9SAx/pub?start=false&loop=false&delayms=3000)
 
 *[20211127 社會學]()
 
