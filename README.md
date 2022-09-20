@@ -1,9 +1,9 @@
 # Presentation
 *[20220919 數位生活記錄Week3]()
 
-*[20220919 性別醫療與健康 Week3](https://docs.google.com/presentation/d/e/2PACX-1vQCihX_uJi73BRaAuAn7FLehqvmRA08H64y8RdLzcykCS6RLadcmmoGGs80O16QQ7bb_gQDgzCeJERZ/pub?start=false&loop=false&delayms=3000)
+*[20220919 性別醫療與健康 Week3]()
 
-*[20220920 性別大數據與視覺化Week3]()
+*[20220920 性別大數據與視覺化Week3](https://docs.google.com/presentation/d/e/2PACX-1vQ7eGFM_cQzn3Za2t2-ucretQRsbT1So7nShfeCXcJDuQTbT0ODkoZ-b26u8aEsPOdF-_Cv5oN2WdbU/pub?start=false&loop=false&delayms=3000)
 
 *[20220915 人社院110學年度優良教師候選報告]()
 
