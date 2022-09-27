@@ -3,9 +3,9 @@
 
 *[20220926 性別醫療與健康 Week4]()
 
-*[20220927 性別大數據與視覺化Week4]()
+*[20220927 性別大數據與視覺化Week4](https://docs.google.com/presentation/d/e/2PACX-1vTSBQijUeL8WLJM9tduimeSGEka_xsog-CUSxAI9t5uzZde4xlSJiZcWrx3vP2kC94sLeFCVwqemdis/pub?start=false&loop=false&delayms=3000)
 
-*[20220927 教師社群分享](https://docs.google.com/presentation/d/e/2PACX-1vRp2xJLhxn6vAwX93h92IR-N6wtqJTEsf8nl_u4jars-82VK_GvZv1wSA1k9sUSHmKFOqUqL2ic_Lco/pub?start=false&loop=false&delayms=3000)
+*[20220927 教師社群分享]()
 
 *[20211127 社會學]()
 
