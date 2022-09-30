@@ -3,9 +3,9 @@
 
 *[20220926 性別醫療與健康 Week4]()
 
-*[20220927 性別大數據與視覺化Week4](https://docs.google.com/presentation/d/e/2PACX-1vTSBQijUeL8WLJM9tduimeSGEka_xsog-CUSxAI9t5uzZde4xlSJiZcWrx3vP2kC94sLeFCVwqemdis/pub?start=false&loop=false&delayms=3000)
+*[20220927 性別大數據與視覺化Week4]()
 
-*[20220927 教師社群分享]()
+*[20221001 女學會年會 復仇式色情到未經同意散布性私密影像](https://docs.google.com/presentation/d/e/2PACX-1vQ24xf0Dqnwy8-ZwLeNMqevMsNraxXreEr-lHcetWcND29p7-mdYmsYHf0a-deTAAf9PoTnbvz-HmsO/pub?start=false&loop=false&delayms=3000)
 
 *[20211127 社會學]()
 
