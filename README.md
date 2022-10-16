@@ -1,9 +1,9 @@
 # Presentation
-*[20221003 數位生活記錄Week5]()
+*[20221017 數位生活記錄Week7](https://docs.google.com/presentation/d/e/2PACX-1vQZIjhMiWAc14oeLkNBtbPjPxr3hMquKTypzA92m38snmC9zRtFIBE6EP0CGoRwB_QxvEaItI8U4VZm/pub?start=false&loop=false&delayms=3000)
 
-*[20221003 性別醫療與健康 Week5]()
+*[20221017 性別醫療與健康 Week7]()
 
-*[20221011 性別大數據與視覺化Week6](https://docs.google.com/presentation/d/e/2PACX-1vRC760i1m-bXZz1F79qx-Dmum87qe8HZr6mqA5EsDY2HmQ26IG5aHwFIgwexOtaDsy7ttX5TEy_cdZ2/pub?start=false&loop=false&delayms=3000)
+*[20221018 性別大數據與視覺化Week7]()
 
 *[20221001 女學會年會 復仇式色情到未經同意散布性私密影像]()
 
