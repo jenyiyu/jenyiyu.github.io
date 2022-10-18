@@ -5,9 +5,9 @@
 
 *[20221018 性別大數據與視覺化Week7]()
 
-*[20221001 女學會年會 復仇式色情到未經同意散布性私密影像]()
+*[20221024 普通社會學Week8]()
 
-*[20221018 高齡共居宅](https://docs.google.com/presentation/d/e/2PACX-1vT3v7SqZR-JxABw52_cMwASpaj6nvXOFSq2fDMesSpJKiSVoW6R5cNZv0aZF3aflEpuKSF9BEhHXg1I/pub?start=false&loop=false&delayms=3000)
+*[20221112 智慧醫療]()
 
 *[20211118 演算法政治與數據女性主義]()
 
