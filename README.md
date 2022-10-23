@@ -5,7 +5,7 @@
 
 *[20221018 性別大數據與視覺化Week7]()
 
-*[20221024 普通社會學Week8]()
+*[20221024 普通社會學Week8](https://docs.google.com/presentation/d/e/2PACX-1vQZ20mDKGGDOwfBHcakFXtsYTIWenbXlSGJUFYg-YeUzIY5mn_0Y7WY2RacozljOdhmH5Y-cLmJFkmz/pub?start=false&loop=false&delayms=3000)
 
 *[20221112 智慧醫療]()
 
