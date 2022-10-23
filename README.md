@@ -1,5 +1,5 @@
 # Presentation
-*[20221017 數位生活記錄Week7]()
+*[20221024 數位生活記錄Week8](https://docs.google.com/presentation/d/e/2PACX-1vQKXjG31hC6Y2EvMfCc4aEKikODiSqXfeQJSbmSgGestAgXmfIa_Sn38EJ-8ZHE3WdExfHIPlU_oIpg/pub?start=false&loop=false&delayms=3000)
 
 *[20221017 性別醫療與健康 Week7]()
 
