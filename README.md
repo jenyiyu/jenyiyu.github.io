@@ -1,11 +1,11 @@
 # Presentation
-*[20221024 數位生活記錄Week8](https://docs.google.com/presentation/d/e/2PACX-1vQKXjG31hC6Y2EvMfCc4aEKikODiSqXfeQJSbmSgGestAgXmfIa_Sn38EJ-8ZHE3WdExfHIPlU_oIpg/pub?start=false&loop=false&delayms=3000)
+*[20221024 數位生活記錄Week8]()
 
-*[20221024 性別醫療與健康 Week8](https://docs.google.com/presentation/d/e/2PACX-1vTtjOUvhksnmkfzfcEWOSK5LYWL0tXSHAN5GNn330DZHCXDT-yg0tia-iCCpcuvDsT5ixFLAnWSMLFj/pub?start=false&loop=false&delayms=3000)
+*[20221024 性別醫療與健康 Week8]()
 
 *[20221018 性別大數據與視覺化Week7]()
 
-*[20221024 普通社會學Week8](https://docs.google.com/presentation/d/e/2PACX-1vQZ20mDKGGDOwfBHcakFXtsYTIWenbXlSGJUFYg-YeUzIY5mn_0Y7WY2RacozljOdhmH5Y-cLmJFkmz/pub?start=false&loop=false&delayms=3000)
+*[20221024 普通社會學Week8]()
 
 *[20221112 智慧醫療]()
 
