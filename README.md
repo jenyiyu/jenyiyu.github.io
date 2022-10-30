@@ -1,9 +1,9 @@
 # Presentation
-*[20221024 數位生活記錄Week8]()
+*[20221031 數位生活記錄Week9](https://docs.google.com/presentation/d/e/2PACX-1vSaZD6tg9wW8fNIMt7Yt7ExZsEEW7Mypmse0gLQQxIC_Kk__bQ0qfShnAvgXYkb_6ej0mjITdQEYueP/pub?start=false&loop=false&delayms=3000)
 
-*[20221024 性別醫療與健康 Week8]()
+*[20221031 性別醫療與健康 Week9]()
 
-*[20221018 性別大數據與視覺化Week7]()
+*[20221101 性別大數據與視覺化Week9]()
 
 *[20221024 普通社會學Week8]()
 
