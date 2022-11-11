@@ -1,13 +1,13 @@
 # Presentation
-*[20221107 數位生活記錄Week 10](https://docs.google.com/presentation/d/e/2PACX-1vS1oeWe5kWf22i48_fuK7i4wAjOtFhj9soMbfonIRk_pw1FK7105jf5j4j9thF1UL67qF0WAchCNrg2/pub?start=false&loop=false&delayms=3000)
+*[20221114 數位生活記錄Week 11]()
 
-*[20221107 性別醫療與健康Week 10](https://docs.google.com/presentation/d/e/2PACX-1vTyT9jzPMVT1949YL94UE4rsfW9Z5ZxaP7m9kkIXg883duO3fo0T11KuXUimrt0U-d-ohy2CBYLS3zq/pub?start=false&loop=false&delayms=3000)
+*[20221114 性別醫療與健康Week 11]()
 
-*[20221108 性別大數據與視覺化Week 10]()
+*[20221115 性別大數據與視覺化Week 11]()
 
-*[20221107 普通社會學Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRcmJmVsjCvfZVidC79WzlYIxS1O59QMKIA263te63yqVPjsNQV6o1njyI64OluVvXAnqmD8GQ2kz6P/pub?start=false&loop=false&delayms=3000)
+*[20221114 普通社會學Week 11]()
 
-*[20221112 智慧醫療]()
+*[20221112 自我追蹤與健康管理_2022台灣社會學年會](https://docs.google.com/presentation/d/e/2PACX-1vSMfpKnqZodub5XMI_8ZTjV0tdPdccHArixCpJMFnTLJC9ySVK9Eb8nGftiRYeCPNbm2AmhIXy-kj2d/pub?start=false&loop=false&delayms=3000)
 
 *[20211118 演算法政治與數據女性主義]()
 
