@@ -1,5 +1,5 @@
 # Presentation
-*[20221114 數位生活記錄Week 11]()
+*[20221114 數位生活記錄Week 11](https://docs.google.com/presentation/d/e/2PACX-1vSGkpMY0XCuclgfHuuxQ8tPVdxWUUR9f9FNimVWTzijYMkh1u1zAbFVjMVEnGR-aZ9yZuOEQbLznW7I/pub?start=false&loop=false&delayms=3000)
 
 *[20221114 性別醫療與健康Week 11]()
 
@@ -7,7 +7,7 @@
 
 *[20221114 普通社會學Week 11]()
 
-*[20221112 自我追蹤與健康管理_2022台灣社會學年會](https://docs.google.com/presentation/d/e/2PACX-1vSMfpKnqZodub5XMI_8ZTjV0tdPdccHArixCpJMFnTLJC9ySVK9Eb8nGftiRYeCPNbm2AmhIXy-kj2d/pub?start=false&loop=false&delayms=3000)
+*[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
 
 *[20211118 演算法政治與數據女性主義]()
 
