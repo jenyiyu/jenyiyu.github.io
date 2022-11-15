@@ -7,6 +7,8 @@
 
 *[20221114 普通社會學Week 11]()
 
+*[20221116 青銀共學智能生活](https://docs.google.com/presentation/d/e/2PACX-1vStDnRq5TwKqxzXEayKBHdUKd2DaAx55eBzv2DL7RxA-UTJJiJayZN52Au2ouoUVjAsdv1ZoJcRHQOD/pub?start=false&loop=false&delayms=3000)
+
 *[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
 
 *[20211118 演算法政治與數據女性主義]()
