@@ -1,13 +1,11 @@
 # Presentation
-*[20221114 數位生活記錄Week 11]()
+*[20221121 數位生活記錄Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQdCOVDLAwBrb9FAMIMIW03bCn6hmtjDMcO-AoIyruM_ytxbhUPp42KtxyG7muxaMB-xRNOLULy-5pB/pub?start=false&loop=false&delayms=3000)
 
-*[20221114 性別醫療與健康Week 11](https://docs.google.com/presentation/d/e/2PACX-1vTQFtiyQrMpXMtVmPx3sFB4oY7maMZyWNoV3WtG8CrieeEKoZ3m2lKokiqJYlGHB_2dH8jnQTkL0puA/pub?start=false&loop=false&delayms=3000)
+*[20221121 性別醫療與健康Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSHW7Zl1pQeyeRpqfn4MB1N7ZTs5PuOV11a_U6sTPMJ_vHwXedgc1HOT4obZLBdl8twF6cANT4AgFX8/pub?start=false&loop=false&delayms=3000)
 
-*[20221115 性別大數據與視覺化Week 11]()
+*[20221122 性別大數據與視覺化Week 12]()
 
-*[20221114 普通社會學Week 11]()
-
-*[20221116 青銀共學智能生活](https://docs.google.com/presentation/d/e/2PACX-1vStDnRq5TwKqxzXEayKBHdUKd2DaAx55eBzv2DL7RxA-UTJJiJayZN52Au2ouoUVjAsdv1ZoJcRHQOD/pub?start=false&loop=false&delayms=3000)
+*[20221121 普通社會學Week 12](https://docs.google.com/presentation/d/e/2PACX-1vTB904xAYJWItcNWMC1ANTxWspmybhfJtNjTMThMEMnBVugQ-K6LvvIrmvu2LUeUZZETtgdaE82enr2/pub?start=false&loop=false&delayms=3000)
 
 *[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
 
