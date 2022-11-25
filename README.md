@@ -1,13 +1,11 @@
 # Presentation
-*[20221121 數位生活記錄Week 12]()
+*[20221128 數位生活記錄Week 13](https://docs.google.com/presentation/d/e/2PACX-1vRrsjAb330hC53OIwPejC2U7rzpCPj5kiEkbER5tvZtO-Xx533kPGn_mANFMwZ5ZkPUJWZ4eb41Z9lb/pub?start=false&loop=false&delayms=3000)
 
-*[20221121 性別醫療與健康Week 12]()
+*[20221128 性別醫療與健康Week 13]()
 
-*[20221122 性別大數據與視覺化Week 12]()
+*[20221129 性別大數據與視覺化Week 13]()
 
-*[20221121 普通社會學Week 12]()
-
-*[20221123 跨域共授課程教學探索工作坊](https://docs.google.com/presentation/d/e/2PACX-1vTFsglAN0SPUYqPMlJn-7S0r2C6A8oXPTqBuCcYGK3X4JoeH_Bpo7qq5fexbxADQhXX8HWplMTZw6uh/pub?start=false&loop=false&delayms=3000)
+*[20221128 普通社會學Week 13]()
 
 *[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
 
