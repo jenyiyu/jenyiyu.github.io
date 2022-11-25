@@ -5,7 +5,7 @@
 
 *[20221129 性別大數據與視覺化Week 13]()
 
-*[20221128 普通社會學Week 13]()
+*[20221128 普通社會學Week 13](https://docs.google.com/presentation/d/e/2PACX-1vRqj07k5r70BiwpTWUmOfjozg39jvgDxoRYCUrrJnFQiSDKcHbRRuVfIfuzuQKSeuyz9jAGj0mv3sb_/pub?start=false&loop=false&delayms=3000)
 
 *[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
 
