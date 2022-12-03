@@ -7,7 +7,7 @@
 
 *[20221128 普通社會學Week 13]()
 
-*[20221112 自我追蹤與健康管理_2022台灣社會學年會]()
+*[20221203 Data Selves讀書會](https://docs.google.com/presentation/d/e/2PACX-1vT12Eg1zX7FdxCXlyGmTlLRJ5kyqzoYY8dHXlqLY6VjjcYa6Aobns28SETs30j0uw9PESvVyZjm55qI/pub?start=false&loop=false&delayms=3000)
 
 *[20211118 演算法政治與數據女性主義]()
 
