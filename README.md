@@ -1,13 +1,13 @@
 # Presentation
 *[20221219 數位生活記錄Week 16]()
 
-*[20221219 性別醫療與健康Week 16](https://docs.google.com/presentation/d/e/2PACX-1vQth4TU5S1RZdycPwiTzyFmk_2cNh1W37aHUNsNEhPgnuM-0k0pwiz4vHCDf6Z7q5X_U0IkKFSdfrA4/pub?start=false&loop=false&delayms=3000)
+*[20221219 性別醫療與健康Week 16]()
 
 *[20221213 性別大數據與視覺化Week 15]()
 
 *[20221128 普通社會學Week 13]()
 
-*[20221203 Data Selves讀書會]()
+*[20221221 從lifelogging到智慧醫療](https://docs.google.com/presentation/d/e/2PACX-1vS8Sp5dsxOoBZNuEbrnUNJAxs7FUYjLxld_U4410ZfVBBk1URSYH2hRjjPdOgUiwcUu5NhfbL5aeTBY/pub?start=false&loop=false&delayms=3000)
 
 *[20211118 演算法政治與數據女性主義]()
 
