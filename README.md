@@ -7,7 +7,7 @@
 
 *[20221128 普通社會學Week 13]()
 
-*[20221221 從lifelogging到智慧醫療](https://docs.google.com/presentation/d/e/2PACX-1vS8Sp5dsxOoBZNuEbrnUNJAxs7FUYjLxld_U4410ZfVBBk1URSYH2hRjjPdOgUiwcUu5NhfbL5aeTBY/pub?start=false&loop=false&delayms=3000)
+*[20221226 Word格式規定](https://docs.google.com/presentation/d/e/2PACX-1vTIKvsVTvj-iU6eWNQQcUSyktjZEOqvKRISbXz_6AS-JXjjicQhpESEONLQyxOG_Bh8rQRm6u9RolZ1/pub?start=false&loop=false&delayms=3000)
 
 *[20211118 演算法政治與數據女性主義]()
 
