@@ -1,19 +1,15 @@
 # Presentation
-*[20221219 數位生活記錄Week 16]()
+*[20230206 春之鬧 數位社會新挑戰](https://docs.google.com/presentation/d/e/2PACX-1vTQ0u5Mc3E6bwiD0QQevzgYsEnRL3JhsnrywtwE-rrcbw1hoZICwKCv2h054LIZKNH4-hXyLzg7SZxc/pub?start=false&loop=false&delayms=3000)
 
-*[20221219 性別醫療與健康Week 16]()
+*[20230215 科技與性別化創新Week 1]()
 
-*[20221213 性別大數據與視覺化Week 15]()
+*[20230215 性別與科技Week 1]()
 
-*[20221128 普通社會學Week 13]()
-
-*[20221226 Word格式規定](https://docs.google.com/presentation/d/e/2PACX-1vTIKvsVTvj-iU6eWNQQcUSyktjZEOqvKRISbXz_6AS-JXjjicQhpESEONLQyxOG_Bh8rQRm6u9RolZ1/pub?start=false&loop=false&delayms=3000)
+*[20230217 社會學Week 1]()
 
 *[20211118 演算法政治與數據女性主義]()
 
 *[20211119 數據計劃的倫理分析]()
-
-*[20210419 用數據說故事 Tableau視覺化工具之簡介與操作]()
 
 
 # Projects
