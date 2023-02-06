@@ -1,6 +1,8 @@
 # Presentation
 *[20230206 春之鬧 數位社會新挑戰](https://docs.google.com/presentation/d/e/2PACX-1vTQ0u5Mc3E6bwiD0QQevzgYsEnRL3JhsnrywtwE-rrcbw1hoZICwKCv2h054LIZKNH4-hXyLzg7SZxc/pub?start=false&loop=false&delayms=3000)
 
+*[20230207 春之鬧 實作討論](https://docs.google.com/presentation/d/e/2PACX-1vT6n22I7WkpakFPjKhQhz5VrKEN_AWlYpSv3MJqal19Jwc9WhZk9X8Rxlx-MTVAtPnMPa_Yrur3BDFS/pub?start=false&loop=false&delayms=3000)
+
 *[20230215 科技與性別化創新Week 1]()
 
 *[20230215 性別與科技Week 1]()
