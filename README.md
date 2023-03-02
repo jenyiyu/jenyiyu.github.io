@@ -1,9 +1,9 @@
 # Presentation
 *[20230301 科技與性別化創新Week 3]()
 
-*[20230301 性別與科技Week 3](https://docs.google.com/presentation/d/e/2PACX-1vTY1REct9sd-x001-HfkdbgPm8tjGh8HewGC3hGCbHqhiygqAYCWf_2eDQfU6pG_eept0uY_masdPEn/pub?start=false&loop=false&delayms=3000)
+*[20230301 性別與科技Week 3]()
 
-*[20230303 社會學Week 3]()
+*[20230303 社會學Week 3](https://docs.google.com/presentation/d/e/2PACX-1vQZuPNv_y8f1NKIHwTKo8BmHu0SN3gNZ-CRMjCHvQuiob1vtUNAH4r-VGbZ9Vm801E8k1Lj0ATWTn8G/pub?start=false&loop=false&delayms=3000)
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
