@@ -1,11 +1,13 @@
 # Presentation
-*[20230308 科技與性別化創新Week 4]()
+*[20230315 科技與性別化創新Week 5]()
 
-*[20230308 性別與科技Week 4]()
+*[20230322 性別與科技Week 6]()
 
-*[20230310 社會學Week 4](https://docs.google.com/presentation/d/e/2PACX-1vQTqF3BpDYdiLF2wqTI82YCq3pfzhANUyTTbTOBt76Fvt5yzynjmvEfeJnItVPgSMonA3UqQJpdL1Yn/pub?start=false&loop=false&delayms=3000)
+*[20230317 社會學Week 5]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
+
+*[20230314 公共社會學](https://docs.google.com/presentation/d/e/2PACX-1vTybSpikWUe9n3sGv09JpHRBjFWAgsB2IwFvUjsSsHXN_lxm8zCtP381-LrEg3XAzYiqYAojyJM87WJ/pub?start=false&loop=false&delayms=3000)
 
 *[20230206 春之鬧 數位社會新挑戰]()
 
