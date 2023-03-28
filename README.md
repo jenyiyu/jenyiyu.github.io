@@ -1,7 +1,7 @@
 # Presentation
 *[20230329 科技與性別化創新Week 7](https://docs.google.com/presentation/d/e/2PACX-1vTjP8icH6UUIA8jEDQ4amW-yWqf7MamqXTk0ew_7q1frPYgeOHa6bYzXukJN4N6F4q3gWZXIlY8MXMM/pub?start=false&loop=false&delayms=3000)
 
-*[20230329 性別與科技Week 7]()
+*[20230329 性別與科技Week 7](https://docs.google.com/presentation/d/e/2PACX-1vQTJ_MmVxT7G3yhgld2_F0L19AOwt6imwd-FmRW7dRBWD_Fofqf3uEL3nbWtE2rhvOONXSqpU4e5OHp/pub?start=false&loop=false&delayms=3000)
 
 *[20230331 社會學Week 7]()
 
