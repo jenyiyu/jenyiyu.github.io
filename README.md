@@ -3,7 +3,7 @@
 
 *[20230329 性別與科技Week 7]()
 
-*[20230331 社會學Week 7](https://docs.google.com/presentation/d/e/2PACX-1vSYxajVrU4xzYJPhLF3_115AYCiPSvZTTYDoUAJKA0AVFt6Q0eYhMw3TjowRsflUKQ9Os0qS-W21wcO/pub?start=false&loop=false&delayms=3000)
+*[20230407 社會學Week 8](https://docs.google.com/presentation/d/e/2PACX-1vQteyAyMQjYfFKgdJcyqWq9Rk8OYYZVSW8QLVuPZqq9aKpuLVYNhunVYzgDb6JGO7V9pKE9dACdRZu1/pub?start=false&loop=false&delayms=3000)
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
