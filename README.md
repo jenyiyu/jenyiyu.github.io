@@ -1,7 +1,7 @@
 # Presentation
-*[20230419 科技與性別化創新Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRG9aSuR2wQ8EMGGDhSZCK13kVcJmcQhirbs98DEhPtPwCUIU1S3jh1CGRB5tIS24oXY9d8GnqQbF7g/pub?start=false&loop=false&delayms=3000)
+*[20230419 科技與性別化創新Week 10]()
 
-*[20230419 性別與科技Week 10]()
+*[20230419 性別與科技Week 10](https://docs.google.com/presentation/d/e/2PACX-1vRu3snJHAmRlo8WmhmPG8iIviLK43i9Nuru-bSvJzwh4w29LLMbbdtpAFq891UhLb6HM5yRSse9Ko0q/pub?start=false&loop=false&delayms=3000)
 
 *[20230421 社會學Week 10]()
 
