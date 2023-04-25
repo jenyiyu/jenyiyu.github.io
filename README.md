@@ -1,13 +1,13 @@
 # Presentation
-*[20230419 科技與性別化創新Week 10]()
+*[20230426 科技與性別化創新Week 11](https://docs.google.com/presentation/d/e/2PACX-1vQKKCU-LO4eg_gb-rgucBbEq7fxHXdV_2AIfPIpFXQd543UZioJePaRJHx9E8-CNu180tQrY4zxrNli/pub?start=false&loop=false&delayms=3000)
 
-*[20230419 性別與科技Week 10]()
+*[20230426 性別與科技Week 11]()
 
-*[20230421 社會學Week 10]()
+*[20230428 社會學Week 11]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
-*[20230421 性別融入課程](https://docs.google.com/presentation/d/e/2PACX-1vSbQbj3yivn-WTldC1z7LP515w5GUliSmv_yH92hZZiLCaRLLohBfvOocBLkbeHO5E-ZFGEeqjtQu3O/pub?start=false&loop=false&delayms=3000)
+*[20230421 性別融入課程]()
 
 *[20230428 敘事分析]()
 
