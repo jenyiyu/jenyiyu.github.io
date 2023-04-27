@@ -1,7 +1,7 @@
 # Presentation
 *[20230426 科技與性別化創新Week 11]()
 
-*[20230426 性別與科技Week 11](https://docs.google.com/presentation/d/e/2PACX-1vR9QQKpv5vbg5lo48aomJJOnHsSJrlToX22rzi65KzAWrfZ1iAZLSY_xWqSIppNWPXmEGn2W0bRIVsz/pub?start=false&loop=false&delayms=3000)
+*[20230426 性別與科技Week 11]()
 
 *[20230428 社會學Week 11]()
 
@@ -9,7 +9,7 @@
 
 *[20230421 性別融入課程]()
 
-*[20230428 敘事分析]()
+*[20230428 敘事分析](https://docs.google.com/presentation/d/e/2PACX-1vSh2LafJqzgdtaK3ud7RsUjEX_ye08ZkcYWcxEgTSPq4C-wnBKW5wZqK34vyS-XmdRa9xPMVrTbluA0/pub?start=false&loop=false&delayms=3000)
 
 *[20230206 春之鬧 數位社會新挑戰]()
 
