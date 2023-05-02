@@ -1,15 +1,15 @@
 # Presentation
-*[20230426 科技與性別化創新Week 11]()
+*[20230503 科技與性別化創新Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSpu2LRjZAtalpS7PKUL5aZuMpny2mTMvNKmX_phMM_ZdLEmddXeGDOlaNLm4KWDyi-vzHKGXLruInG/pub?start=false&loop=false&delayms=3000)
 
-*[20230426 性別與科技Week 11]()
+*[20230503 性別與科技Week 12]()
 
-*[20230428 社會學Week 11](https://docs.google.com/presentation/d/e/2PACX-1vSe4SuM1wbCcFH8_SkWpbWfS2QXlrSrQyqHwWmyWm5O9hS5IM-Et5pjTlIv5Z2cbKsC_GRZcIRqF9wB/pub?start=false&loop=false&delayms=3000)
+*[20230505 社會學Week 12]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
 *[20230421 性別融入課程]()
 
-*[20230428 敘事分析](https://docs.google.com/presentation/d/e/2PACX-1vSh2LafJqzgdtaK3ud7RsUjEX_ye08ZkcYWcxEgTSPq4C-wnBKW5wZqK34vyS-XmdRa9xPMVrTbluA0/pub?start=false&loop=false&delayms=3000)
+*[20230428 敘事分析]()
 
 *[20230206 春之鬧 數位社會新挑戰]()
 
