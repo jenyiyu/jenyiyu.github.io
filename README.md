@@ -1,5 +1,5 @@
 # Presentation
-*[20230517 科技與性別化創新Week 14]()
+*[20230517 科技與性別化創新Week 14](https://docs.google.com/presentation/d/e/2PACX-1vQxIywNaZ8htKEjnUDd18HRHqko19o5zF6Zwd-fv8zhvnBSE216inP2XNJOPp4oZLHl9J32Xf-4BuPh/pub?start=false&loop=false&delayms=3000)
 
 *[20230517 性別與科技Week 14]()
 
@@ -7,7 +7,7 @@
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
-*[20230515 計算社會科學的方法論與融合可能](https://docs.google.com/presentation/d/e/2PACX-1vSi27O_YXvfLzbCtyzeunLcDY4H9iVyybj16cEFW8NYCPj1C0R9tWweZyL2bM_Mgdt6HVx_mrjaKnap/pub?start=false&loop=false&delayms=3000)
+*[20230515 計算社會科學的方法論與融合可能]()
 
 *[20230428 敘事分析]()
 
