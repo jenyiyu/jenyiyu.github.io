@@ -1,5 +1,5 @@
 # Presentation
-*[20230517 科技與性別化創新Week 14](https://docs.google.com/presentation/d/e/2PACX-1vShAEvR16tUH4-307bRolxnUqXi7QbaIBhU5j-1XKiogmUPRVOiJKbGb0gmXqPBpGcgbkK_IHMekojC/pub?start=false&loop=false&delayms=3000)
+*[20230517 科技與性別化創新Week 14]()
 
 *[20230517 性別與科技Week 14]()
 
