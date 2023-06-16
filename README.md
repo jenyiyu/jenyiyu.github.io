@@ -1,9 +1,11 @@
 # Presentation
+*[20230617 Self tracking and health management](https://docs.google.com/presentation/d/e/2PACX-1vSdtzwfdhNVNlqu5wRO6u1ojjpkePF4RtR2CCR_h9JKlb_1O6imAtszK7decLvhdsIbgM2eKPzVksRP/pub?start=false&loop=false&delayms=3000)
+
 *[20230607 科技與性別化創新Week 17]()
 
 *[20230607 性別與科技Week 17]()
 
-*[20230609 社會學Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRQ_QBqIbx_78waDyMQq16oO1py12ddJl7mIQo1R_IbqHb6iJqIW4J-BTPzDivg2yZsKt9Ievc54WtL/pub?start=false&loop=false&delayms=3000)
+*[20230609 社會學Week 17]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
