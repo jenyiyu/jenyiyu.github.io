@@ -1,7 +1,9 @@
 # Presentation
 *[20230617 Self tracking and health management]()
 
-*[20230705 高中生人社營評論](https://docs.google.com/presentation/d/e/2PACX-1vSI8p3dsLAhxHfASwo6dM5pKPdXlz9bF5w1zr9pP9Luakqm_KP02ie8P6QrXt08hpu9m-mR7zVFWadw/pub?start=false&loop=false&delayms=3000)
+*[20230705 高中生人社營評論]()
+
+*[20230706 招生文宣](https://docs.google.com/presentation/d/e/2PACX-1vQOtnp0KzYJJQHLatc8hKWYMLnVf_dPkFE0eoSLUXP845EtOi91fWyqtpzZU-zfirK2J9NpEd4cz-to/pub?start=false&loop=false&delayms=3000)
 
 *[20230607 科技與性別化創新Week 17]()
 
