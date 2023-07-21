@@ -3,7 +3,7 @@
 
 *[20230705 高中生人社營評論]()
 
-*[20230706 招生文宣](https://docs.google.com/presentation/d/e/2PACX-1vQOtnp0KzYJJQHLatc8hKWYMLnVf_dPkFE0eoSLUXP845EtOi91fWyqtpzZU-zfirK2J9NpEd4cz-to/pub?start=false&loop=false&delayms=3000)
+*[20230721 女書店講座 女性主義對資料的探問](https://docs.google.com/presentation/d/e/2PACX-1vTGrpms_YRZxPOF1qvFVMasMsun1LYa5zT6BHAgEPbZChGtAODDO77Uj0NPLv5DFBX38D6O1jPTY2wh/pub?start=false&loop=false&delayms=3000)
 
 *[20230607 科技與性別化創新Week 17]()
 
