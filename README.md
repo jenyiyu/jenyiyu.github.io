@@ -1,15 +1,15 @@
 # Presentation
+*[20230911 數位生活記錄 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vQTok4UqM1iSXDiWr-pY1LeATwpnggBbA9etoLRZRKv2Ok7HOpUGFa067ySkjMvuZ7XQICGUlzJxzlK/pub?start=false&loop=false&delayms=3000)
+
+*[20230911 普通社會學 Week 1]()
+
+*[20230912 性別醫療與健康 Week 1]()
+
 *[20230617 Self tracking and health management]()
 
 *[20230705 高中生人社營評論]()
 
-*[20230721 女書店講座 女性主義對資料的探問](https://docs.google.com/presentation/d/e/2PACX-1vTGrpms_YRZxPOF1qvFVMasMsun1LYa5zT6BHAgEPbZChGtAODDO77Uj0NPLv5DFBX38D6O1jPTY2wh/pub?start=false&loop=false&delayms=3000)
-
-*[20230607 科技與性別化創新Week 17]()
-
-*[20230607 性別與科技Week 17]()
-
-*[20230609 社會學Week 17]()
+*[20230721 女書店講座 女性主義對資料的探問]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
