@@ -1,7 +1,7 @@
 # Presentation
-*[20230911 數位生活記錄 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vQTok4UqM1iSXDiWr-pY1LeATwpnggBbA9etoLRZRKv2Ok7HOpUGFa067ySkjMvuZ7XQICGUlzJxzlK/pub?start=false&loop=false&delayms=3000)
+*[20230911 數位生活記錄 Week 1]()
 
-*[20230911 普通社會學 Week 1]()
+*[20230911 普通社會學 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vQDsGpMNdokde2lejYDl4eTXadsxJydh2lbzdpHVNls9LCT2zAgEnNIFUE6malVBM8gmh8oaglnir8v/pub?start=false&loop=false&delayms=3000)
 
 *[20230912 性別醫療與健康 Week 1]()
 
