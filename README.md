@@ -1,11 +1,13 @@
 # Presentation
 *[20230916 性別所論壇 從數位中消失]()
 
+*[20230921 111優良教師候選報告](https://docs.google.com/presentation/d/e/2PACX-1vQD1bk5MmQ4kwkUwiHzAwFPlWCoYfqikMd0Jue7Rkpa2jZVHkrkN8cX5szt74txRTKkOhEhlHV8Mj9j/pub?start=false&loop=false&delayms=3000)
+
 *[20230911 數位生活記錄 Week 1]()
 
 *[20230911 普通社會學 Week 1]()
 
-*[20230919 性別醫療與健康 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vSpdumI6YzHuTW3gQLwNQxDydLGDI_3wUAtcMNfwybub0exUrC-33kkka_-IobH08dge4qhq7JpI7dZ/pub?start=false&loop=false&delayms=3000)
+*[20230919 性別醫療與健康 Week 2]()
 
 *[20230617 Self tracking and health management]()
 
