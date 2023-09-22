@@ -3,11 +3,11 @@
 
 *[20230923 女學會年會 資料權力與政治](https://docs.google.com/presentation/d/e/2PACX-1vSw7jSJe_7m6ntpIM_01rH6yzPMit6GD9bb4E14W_pQmHyW21G4KBhU0GwHGzGh7Z-OhXMEcKaJVe6A/pub?start=false&loop=false&delayms=3000)
 
-*[20230911 數位生活記錄 Week 1]()
+*[20230925 數位生活記錄 Week 3]()
 
-*[20230911 普通社會學 Week 1]()
+*[20230925 普通社會學 Week 3]()
 
-*[20230919 性別醫療與健康 Week 2]()
+*[20230925 性別醫療與健康 Week 3]()
 
 *[20230617 Self tracking and health management]()
 
