@@ -1,7 +1,7 @@
 # Presentation
 *[20230916 性別所論壇 從數位中消失]()
 
-*[20230921 111優良教師候選報告](https://docs.google.com/presentation/d/e/2PACX-1vQD1bk5MmQ4kwkUwiHzAwFPlWCoYfqikMd0Jue7Rkpa2jZVHkrkN8cX5szt74txRTKkOhEhlHV8Mj9j/pub?start=false&loop=false&delayms=3000)
+*[20230923 女學會年會 資料權力與政治](https://docs.google.com/presentation/d/e/2PACX-1vSw7jSJe_7m6ntpIM_01rH6yzPMit6GD9bb4E14W_pQmHyW21G4KBhU0GwHGzGh7Z-OhXMEcKaJVe6A/pub?start=false&loop=false&delayms=3000)
 
 *[20230911 數位生活記錄 Week 1]()
 
