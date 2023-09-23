@@ -1,13 +1,13 @@
 # Presentation
 *[20230916 性別所論壇 從數位中消失]()
 
-*[20230923 女學會年會 資料權力與政治](https://docs.google.com/presentation/d/e/2PACX-1vSw7jSJe_7m6ntpIM_01rH6yzPMit6GD9bb4E14W_pQmHyW21G4KBhU0GwHGzGh7Z-OhXMEcKaJVe6A/pub?start=false&loop=false&delayms=3000)
+*[20230923 女學會年會 資料權力與政治]()
 
 *[20230925 數位生活記錄 Week 3]()
 
 *[20230925 普通社會學 Week 3]()
 
-*[20230925 性別醫療與健康 Week 3]()
+*[20230925 性別醫療與健康 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vQCihX_uJi73BRaAuAn7FLehqvmRA08H64y8RdLzcykCS6RLadcmmoGGs80O16QQ7bb_gQDgzCeJERZ/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
