@@ -5,9 +5,9 @@
 
 *[20231002 數位生活記錄 Week 4]()
 
-*[20231002 普通社會學 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vSVPFhK4iSdzpi4FyILt_2vOs7dLQmQEe_8g0GexoSX4iEtdFSD3PocNjDRsuAOTU5jR9eiyK03hTHk/pub?start=false&loop=false&delayms=3000)
+*[20231002 普通社會學 Week 4]()
 
-*[20231003 性別醫療與健康 Week 4]()
+*[20231003 性別醫療與健康 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vQ59YAqz11azR6d4OtdS9aNl0iWY2acx8pi-0dVMnji9MdSPRRR3vYWztQWrNIITOVEP_6VoRvdG-a0/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
