@@ -7,9 +7,9 @@
 
 *[20231016 普通社會學 Week 6]()
 
-*[20231017 性別醫療與健康 Week 6]()
+*[20231017 性別醫療與健康 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vT0dtaXnRpIV7esTOzroizXi6lXU-H240rPDOYkx58STm2-RNpK9rXAykk6FKl9hxoHNVc8OCf-tuVy/pub?start=false&loop=false&delayms=3000)
 
-*[20231017 超高齡解方 青銀共居](https://docs.google.com/presentation/d/e/2PACX-1vT3v7SqZR-JxABw52_cMwASpaj6nvXOFSq2fDMesSpJKiSVoW6R5cNZv0aZF3aflEpuKSF9BEhHXg1I/pub?start=false&loop=false&delayms=3000)
+*[20231017 超高齡解方 青銀共居]()
 
 *[20230617 Self tracking and health management]()
 
