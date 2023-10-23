@@ -3,9 +3,9 @@
 
 *[20230923 女學會年會 資料權力與政治]()
 
-*[20231023 數位生活記錄 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vSy23nQWE9nsDLU9YdbWZltGUO1s8sHSl9i7tQw5GZwuAIPwpDDVtnDEZEz_Y6UCfRHSjh2Xnm1NuvH/pub?start=false&loop=false&delayms=3000)
+*[20231023 數位生活記錄 Week 7]()
 
-*[20231023 普通社會學 Week 7]()
+*[20231023 普通社會學 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vQZ20mDKGGDOwfBHcakFXtsYTIWenbXlSGJUFYg-YeUzIY5mn_0Y7WY2RacozljOdhmH5Y-cLmJFkmz/pub?start=false&loop=false&delayms=3000)
 
 *[20231024 性別醫療與健康 Week 7]()
 
