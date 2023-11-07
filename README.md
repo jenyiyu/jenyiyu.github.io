@@ -7,7 +7,7 @@
 
 *[20231030 普通社會學 Week 8]()
 
-*[20231031 性別醫療與健康 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vRpL4wRKK04kB548dY8ngqEQJG3cEw-DmTL6PzMCx73f0UphFPt_Io7nvNnuplMv14_6zyI1JhGNjlC/pub?start=false&loop=false&delayms=3000)
+*[20231107 性別醫療與健康 Week 9](https://docs.google.com/presentation/d/e/2PACX-1vT6n22I7WkpakFPjKhQhz5VrKEN_AWlYpSv3MJqal19Jwc9WhZk9X8Rxlx-MTVAtPnMPa_Yrur3BDFS/pub?start=false&loop=false&delayms=3000)
 
 *[20231017 超高齡解方 青銀共居]()
 
