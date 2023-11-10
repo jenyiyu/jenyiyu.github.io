@@ -1,5 +1,5 @@
 # Presentation
-*[20231110 國科會AI研習營](https://docs.google.com/presentation/d/e/2PACX-1vQ_cqxfyGjlFMikriKG_VhWI8TcL-zgbB6d2hGf8OfXX3EGhFYYUrmounu68XEbZtAwlXuM2CChG8NE/pub?start=false&loop=false&delayms=3000)
+*[20231110 國科會學術研習營_資料與AI](https://docs.google.com/presentation/d/e/2PACX-1vQ_cqxfyGjlFMikriKG_VhWI8TcL-zgbB6d2hGf8OfXX3EGhFYYUrmounu68XEbZtAwlXuM2CChG8NE/pub?start=false&loop=false&delayms=3000)
 
 *[20230923 女學會年會 資料權力與政治]()
 
