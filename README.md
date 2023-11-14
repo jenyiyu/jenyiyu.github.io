@@ -5,9 +5,9 @@
 
 *[20231113 數位生活記錄 Week 10]()
 
-*[20231113 普通社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vTB904xAYJWItcNWMC1ANTxWspmybhfJtNjTMThMEMnBVugQ-K6LvvIrmvu2LUeUZZETtgdaE82enr2/pub?start=false&loop=false&delayms=3000)
+*[20231113 普通社會學 Week 10]()
 
-*[20231114 性別醫療與健康 Week 10]()
+*[20231114 性別醫療與健康 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vTyT9jzPMVT1949YL94UE4rsfW9Z5ZxaP7m9kkIXg883duO3fo0T11KuXUimrt0U-d-ohy2CBYLS3zq/pub?start=false&loop=false&delayms=3000)
 
 *[20231017 超高齡解方 青銀共居]()
 
