@@ -1,5 +1,5 @@
 # Presentation
-*[20231110 國科會學術研習營_資料與AI]()
+*[20231118 台灣社會學年會_Gender in AI](https://docs.google.com/presentation/d/e/2PACX-1vSJdXgKyNuUuQBnyrJauzTV-LndkUGCZRRMOSph8tSdLuzlkUiuCZpg8VfXBpI724Mct5wmR-4PrpvJ/pub?start=false&loop=false&delayms=3000)
 
 *[20230923 女學會年會 資料權力與政治]()
 
@@ -7,7 +7,7 @@
 
 *[20231113 普通社會學 Week 10]()
 
-*[20231114 性別醫療與健康 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vTyT9jzPMVT1949YL94UE4rsfW9Z5ZxaP7m9kkIXg883duO3fo0T11KuXUimrt0U-d-ohy2CBYLS3zq/pub?start=false&loop=false&delayms=3000)
+*[20231114 性別醫療與健康 Week 10]()
 
 *[20231017 超高齡解方 青銀共居]()
 
