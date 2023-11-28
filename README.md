@@ -3,13 +3,13 @@
 
 *[20230923 女學會年會 資料權力與政治]()
 
-*[20231127 數位生活記錄 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQd1tJEMZd32TfqCEXnLu5CRpjxBRtGUG7umysSRywrYy5xmtS5F5uR79LwHP5DAl2Ge4GbVyHnd_5W/pub?start=false&loop=false&delayms=3000)
+*[20231127 數位生活記錄 Week 12]()
 
-*[20231120 普通社會學 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vQqFXbzIbFTl7IRzRvjeblleTLhWEsfBaDa9hYtYPGGksw7b2LlisAOM3v_X-J5K5YfaLLzNwcbmrVX/pub?start=false&loop=false&delayms=3000)
+*[20231120 普通社會學 Week 11]()
 
-*[20231127 普通社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vRqj07k5r70BiwpTWUmOfjozg39jvgDxoRYCUrrJnFQiSDKcHbRRuVfIfuzuQKSeuyz9jAGj0mv3sb_/pub?start=false&loop=false&delayms=3000)
+*[20231127 普通社會學 Week 12]()
 
-*[20231128 性別醫療與健康 Week 12]()
+*[20231128 性別醫療與健康 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQ_is-ypzkdvRzzwfZ6tOgCzNUV2-TWL9OWki7nlcsz_47AKDsYZaSBFTF4GannDZI322yrlEQI6lz6/pub?start=false&loop=false&delayms=3000)
 
 *[20231017 超高齡解方 青銀共居]()
 
