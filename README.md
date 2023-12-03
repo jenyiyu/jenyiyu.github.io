@@ -5,11 +5,9 @@
 
 *[20231204 數位生活記錄 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQ_SW5-qPsH13zril2AcpFrOsjziLUptu61CcykPqKZxDNhiEwadVtsoebYGWinn6543I9gPvVoj461/pub?start=false&loop=false&delayms=3000)
 
-*[20231120 普通社會學 Week 11]()
+*[20231204 普通社會學 Week 13]()
 
-*[20231127 普通社會學 Week 12]()
-
-*[20231128 性別醫療與健康 Week 12]()
+*[20231205 性別醫療與健康 Week 13]()
 
 *[20231017 超高齡解方 青銀共居]()
 
