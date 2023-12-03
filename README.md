@@ -3,13 +3,13 @@
 
 *[20230923 女學會年會 資料權力與政治]()
 
-*[20231127 數位生活記錄 Week 12]()
+*[20231204 數位生活記錄 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQ_SW5-qPsH13zril2AcpFrOsjziLUptu61CcykPqKZxDNhiEwadVtsoebYGWinn6543I9gPvVoj461/pub?start=false&loop=false&delayms=3000)
 
 *[20231120 普通社會學 Week 11]()
 
 *[20231127 普通社會學 Week 12]()
 
-*[20231128 性別醫療與健康 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQ_is-ypzkdvRzzwfZ6tOgCzNUV2-TWL9OWki7nlcsz_47AKDsYZaSBFTF4GannDZI322yrlEQI6lz6/pub?start=false&loop=false&delayms=3000)
+*[20231128 性別醫療與健康 Week 12]()
 
 *[20231017 超高齡解方 青銀共居]()
 
