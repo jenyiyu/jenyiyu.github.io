@@ -5,11 +5,11 @@
 
 *[20231204 數位生活記錄 Week 13]()
 
-*[20231204 普通社會學 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vR7yOU-p6QSjHlOFanS-MwSd5eKUNYei5G2vZWs_N_GarcE9dDe_uaHbBa_v-phMAl6wUmz7z8obg7N/pub?start=false&loop=false&delayms=3000)
+*[20231204 普通社會學 Week 13]()
 
 *[20231205 性別醫療與健康 Week 13]()
 
-*[20231017 超高齡解方 青銀共居]()
+*[20231205 性別與健康課堂演講](https://docs.google.com/presentation/d/e/2PACX-1vTVD75QKBeBOROTuiSw9nK_Z-v88DpyklcUclqW45qJ21w1MLnhIF-X3MJJB4lSDY-HJEC1P6kprT4W/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
