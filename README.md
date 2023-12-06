@@ -7,9 +7,9 @@
 
 *[20231204 普通社會學 Week 13]()
 
-*[20231205 性別醫療與健康 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vSHW7Zl1pQeyeRpqfn4MB1N7ZTs5PuOV11a_U6sTPMJ_vHwXedgc1HOT4obZLBdl8twF6cANT4AgFX8/pub?start=false&loop=false&delayms=3000)
+*[20231205 性別醫療與健康 Week 13]()
 
-*[20231205 性別與健康課堂演講]()
+*[20231207 人社院倫理課程](https://docs.google.com/presentation/d/e/2PACX-1vTyvi5TsghxDOVRXAHMxmfQ-oQNwiRqZ5Q3E2KPqJWwaFxkhBLOnwoDby5hvK5kaIF6OXszxuNce-_N/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
