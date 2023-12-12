@@ -5,9 +5,9 @@
 
 *[20231211 數位生活記錄 Week 14]()
 
-*[20231211 普通社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTbalUHmiKe0BUQNGmDM6Lti9m6Aw7W2bU_nhwTk5Y3LBQjo3vfZKtAheM2cs7D13fQTx7OiEgeknxT/pub?start=false&loop=false&delayms=3000)
+*[20231211 普通社會學 Week 14]()
 
-*[20231212 性別醫療與健康 Week 14]()
+*[20231212 性別醫療與健康 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTidDFeZ0GN9iXzYfc88DwAhVezkPR8tehPYJ7nDaFLLSDTjCC6ie3NEOnKuiyZBMpEpwDfSWAOEkqy/pub?start=false&loop=false&delayms=3000)
 
 *[20231207 人社院倫理課程]()
 
