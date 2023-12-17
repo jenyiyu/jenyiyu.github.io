@@ -5,7 +5,7 @@
 
 *[20231218 數位生活記錄 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vTQScvA0w0zsGPz4mHzDrl4YiX6_6cKSEg0t1Mg7XJcsgn3PULZrXP7nuGOufrRz0V6hBW-ft1g3Li2/pub?start=false&loop=false&delayms=3000)
 
-*[20231211 普通社會學 Week 14]()
+*[20231211 普通社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTbalUHmiKe0BUQNGmDM6Lti9m6Aw7W2bU_nhwTk5Y3LBQjo3vfZKtAheM2cs7D13fQTx7OiEgeknxT/pub?start=false&loop=false&delayms=3000)
 
 *[20231218 普通社會學 Week 15]()
 
