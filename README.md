@@ -3,11 +3,11 @@
 
 *[20230923 女學會年會 資料權力與政治]()
 
-*[20231218 數位生活記錄 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vTQScvA0w0zsGPz4mHzDrl4YiX6_6cKSEg0t1Mg7XJcsgn3PULZrXP7nuGOufrRz0V6hBW-ft1g3Li2/pub?start=false&loop=false&delayms=3000)
+*[20231218 數位生活記錄 Week 15]()
 
 *[20231211 普通社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTbalUHmiKe0BUQNGmDM6Lti9m6Aw7W2bU_nhwTk5Y3LBQjo3vfZKtAheM2cs7D13fQTx7OiEgeknxT/pub?start=false&loop=false&delayms=3000)
 
-*[20231218 普通社會學 Week 15]()
+*[20231218 普通社會學 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vRuYm8wp8v124N0TSmRj5F7SZHpdRfrNzKdUUudNCO2xvUWdsghYIhyk1IibxsawcFoyP8wkyqnvUp9/pub?start=false&loop=false&delayms=3000)
 
 *[20231212 性別醫療與健康 Week 14]()
 
