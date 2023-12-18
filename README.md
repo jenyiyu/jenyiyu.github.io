@@ -5,9 +5,11 @@
 
 *[20231218 數位生活記錄 Week 15]()
 
-*[20231211 普通社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTbalUHmiKe0BUQNGmDM6Lti9m6Aw7W2bU_nhwTk5Y3LBQjo3vfZKtAheM2cs7D13fQTx7OiEgeknxT/pub?start=false&loop=false&delayms=3000)
-
 *[20231218 普通社會學 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vRuYm8wp8v124N0TSmRj5F7SZHpdRfrNzKdUUudNCO2xvUWdsghYIhyk1IibxsawcFoyP8wkyqnvUp9/pub?start=false&loop=false&delayms=3000)
+
+*[20231225 普通社會學 Week 16]()
+
+*[20231219 開啟研究之旅](https://docs.google.com/presentation/d/e/2PACX-1vT2bSJc8Ote0v_co4fc4xN_Wvw3Kr342-Rq38YWwMR9R-hauF4fGtJF7cZPyGfBa9JYQ8H8tGhJW4Nw/pub?start=false&loop=false&delayms=3000)
 
 *[20231212 性別醫療與健康 Week 14]()
 
