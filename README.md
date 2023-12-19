@@ -9,9 +9,7 @@
 
 *[20231225 普通社會學 Week 16]()
 
-*[20231219 開啟研究之旅](https://docs.google.com/presentation/d/e/2PACX-1vT2bSJc8Ote0v_co4fc4xN_Wvw3Kr342-Rq38YWwMR9R-hauF4fGtJF7cZPyGfBa9JYQ8H8tGhJW4Nw/pub?start=false&loop=false&delayms=3000)
-
-*[20231212 性別醫療與健康 Week 14]()
+*[20231218 性別醫療與健康 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vQlOdSTpyS_wFz96otzpmaR8MI_cD2Ep16bCtYyWGGmz2m5c6fkLWuyTwe67LzEM1vEGQoXkq6vzisN/pub?start=false&loop=false&delayms=3000)
 
 *[20231207 人社院倫理課程]()
 
