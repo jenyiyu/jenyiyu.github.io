@@ -1,15 +1,11 @@
 # Presentation
-*[20231118 臺灣社會學年會_Gender in AI]()
+*[20240221 科技與性別化創新 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vQMPdkf9DRzT1ycWYvJTnYy479tJAluf25WjGKahnsW4jw4PovVtgC5phlc116JN_mhJ7dN0mnG5O2Z/pub?start=false&loop=false&delayms=3000)
 
-*[20230923 女學會年會 資料權力與政治]()
+*[20240221 工作身體與時空 Week 1]()
 
-*[20231225 數位生活記錄 Week 16]()
+*[20240223 社會學 Week 1]()
 
-*[20231218 普通社會學 Week 15]()
-
-*[20231225 普通社會學 Week 16]()
-
-*[20231226 性別醫療與健康 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vQth4TU5S1RZdycPwiTzyFmk_2cNh1W37aHUNsNEhPgnuM-0k0pwiz4vHCDf6Z7q5X_U0IkKFSdfrA4/pub?start=false&loop=false&delayms=3000)
+*[20231226 性別醫療與健康 Week 16]()
 
 *[20231207 人社院倫理課程]()
 
