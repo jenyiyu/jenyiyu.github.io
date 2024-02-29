@@ -3,7 +3,7 @@
 
 *[20240221 工作身體與時空 Week 1]()
 
-*[20240223 社會學 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vSQ8vcwdHozu22SjXPnPdOTtiPvK3JiCkPFi1Rdc5_4R4nxC01ODg7HePc9DIPIS1xfr_C5r2shEqzp/pub?start=false&loop=false&delayms=3000)
+*[20240301 社會學 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vTBNtrBw09kzJIO1BIVE0yofrA4eMI6hUOBBz0D3XvsykrvZS8FhkEuHTMiovIQxw535pQ1FqkpxEKk/pub?start=false&loop=false&delayms=3000)
 
 *[20231226 性別醫療與健康 Week 16]()
 
