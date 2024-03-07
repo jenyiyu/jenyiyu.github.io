@@ -1,9 +1,9 @@
 # Presentation
 *[20240306 科技與性別化創新 Week 3]()
 
-*[20240306 工作身體與時空 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vTlFgolRKcmYcEni8iT9CISjZFGFQUiqoniAY7EsTq52LLGv-OTrL-B933QwlGHQIqvhfUMNbCuRpo0/pub?start=false&loop=false&delayms=3000)
+*[20240306 工作身體與時空 Week 3]()
 
-*[20240308 社會學 Week 3]()
+*[20240308 社會學 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vQZuPNv_y8f1NKIHwTKo8BmHu0SN3gNZ-CRMjCHvQuiob1vtUNAH4r-VGbZ9Vm801E8k1Lj0ATWTn8G/pub?start=false&loop=false&delayms=3000)
 
 *[20231226 性別醫療與健康 Week 16]()
 
