@@ -1,11 +1,11 @@
 # Presentation
-*[20240313 科技與性別化創新 Week 4]()
+*[20240313 科技與性別化創新 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vQ63IfJbjA1l2BRSV6TsJ5q5dL_VlAi4R6KUv252qekurybfBLZAF8RSNpsYqZUCQzh7575Wy2x1mEe/pub?start=false&loop=false&delayms=3000)
 
 *[20240313 工作身體與時空 Week 4]()
 
 *[20240315 社會學 Week 4]()
 
-*[20240311 從復仇式色情到數位性暴力](https://docs.google.com/presentation/d/e/2PACX-1vQ24xf0Dqnwy8-ZwLeNMqevMsNraxXreEr-lHcetWcND29p7-mdYmsYHf0a-deTAAf9PoTnbvz-HmsO/pub?start=false&loop=false&delayms=3000)
+*[20240311 從復仇式色情到數位性暴力](）
 
 *[20230617 Self tracking and health management]()
 
