@@ -1,9 +1,9 @@
 # Presentation
 *[20240320 科技與性別化創新 Week 5]()
 
-*[20240320 工作身體與時空 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vSCs7IpQaXh-iWQahU5lE_j9zAHQxEvDAQfl-QGrJML235WWsVDWIh8FAYgIoMGhlVfZdqtStMe7df4/pub?start=false&loop=false&delayms=3000)
+*[20240320 工作身體與時空 Week 5]()
 
-*[20240322 社會學 Week 5]()
+*[20240322 社會學 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vSvREdX_dW0g6JThtFQNuc_YTMW3zuYsnk5JzplyjFOzIn3oWEnrwNRz3WVrEZmSZro8M_bAwUOQdf7/pub?start=false&loop=false&delayms=3000)
 
 *[20240311 從復仇式色情到數位性暴力]()
 
