@@ -1,11 +1,11 @@
 # Presentation
 *[20240327 科技與性別化創新 Week 6]()
 
-*[20240327 工作身體與時空 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTDKBMt5ziAXXsRAFNaR3hTjLhFus6e183UGQp0Z436r5E99PnHL6ukaVgnWb2lXQ5lD7ST-b94Qp5H/pub?start=false&loop=false&delayms=3000)
+*[20240327 工作身體與時空 Week 6]()
 
 *[20240329 社會學 Week 6]()
 
-*[20240328 網路仇恨犯罪]()
+*[20240328 網路仇恨犯罪](https://docs.google.com/presentation/d/e/2PACX-1vRd1zjfGPeEDvdreOTgQzZ2aKcvdzu_tS4Kowdjx4yJvbfUAGjpEMQktPgoXaXHMIcsQJG2AekvFNMC/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
