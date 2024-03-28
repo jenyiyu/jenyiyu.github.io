@@ -3,9 +3,9 @@
 
 *[20240327 工作身體與時空 Week 6]()
 
-*[20240329 社會學 Week 6]()
+*[20240329 社會學 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vSnQLIjRvaJkElq5rLOz4hkpBBAs_iy9Y2-oCltI7N5LS_SlIG7gAJBHNyCeL2R06nj1aIhD4li-Ub2/pub?start=false&loop=false&delayms=3000)
 
-*[20240328 網路仇恨犯罪](https://docs.google.com/presentation/d/e/2PACX-1vRd1zjfGPeEDvdreOTgQzZ2aKcvdzu_tS4Kowdjx4yJvbfUAGjpEMQktPgoXaXHMIcsQJG2AekvFNMC/pub?start=false&loop=false&delayms=3000)
+*[20240328 網路仇恨犯罪]()
 
 *[20230617 Self tracking and health management]()
 
