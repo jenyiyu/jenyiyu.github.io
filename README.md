@@ -1,11 +1,9 @@
 # Presentation
-*[20240403 科技與性別化創新 Week 7]()
+*[20240410 科技與性別化創新 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vTvQh14HJmoXLBPQc3xupmCR1izt5la5ebKtdqpzvAUTjd6mDqjf9rVuDfCH5I-sheYNaiH4bq_UeK2/pub?start=false&loop=false&delayms=3000)
 
-*[20240403 工作身體與時空 Week 7提問](https://docs.google.com/presentation/d/e/2PACX-1vRgoqIeZeWd3ZmIYm79SwoKmXPqS5eSOhQoEIDhytX-wl28K6If5TCL0oP2YjZ0l_uO_IbiiHkQ5Pfw/pub?start=false&loop=false&delayms=3000)
+*[20240410 工作身體與時空 Week 8]()
 
-*[20240403 工作身體與時空 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vSwol3crrtvRfkCyqXCpdkxBuePGc2c3_iI-J5rZ-gXy4zzoJr0aDqwA3_c6HBSBjwfF2sCqOCK5WmO/pub?start=false&loop=false&delayms=3000)
-
-*[20240329 社會學 Week 6]()
+*[20240412 社會學 Week 8]()
 
 *[20240328 網路仇恨犯罪]()
 
