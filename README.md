@@ -1,11 +1,11 @@
 # Presentation
 *[20240424 科技與性別化創新 Week 10]()
 
-*[20240424 工作身體與時空 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQUK58DQZOVskzd48C32oEu8lNlxDNs5v1YTp_RWi2mdgm0rJqxuf3NCN3By3zkuAtmIeC1QxBrQn8x/pub?start=false&loop=false&delayms=3000)
+*[20240424 工作身體與時空 Week 10]()
 
 *[20240426 社會學 Week 10]()
 
-*[20240328 網路仇恨犯罪]()
+*[20240425 刻板印象威脅](https://docs.google.com/presentation/d/e/2PACX-1vSxAYdz6JumeYMFAdKMjicw-IWw4HBnGBu_9yz9t01eumY8YvX-_XJlsf8UksKGbkmuSM4QBiMKHhvM/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
