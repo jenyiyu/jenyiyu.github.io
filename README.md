@@ -5,6 +5,8 @@
 
 *[20240426 社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQteyAyMQjYfFKgdJcyqWq9Rk8OYYZVSW8QLVuPZqq9aKpuLVYNhunVYzgDb6JGO7V9pKE9dACdRZu1/pub?start=false&loop=false&delayms=3000)
 
+*[20240426 開放資料與視覺化工作坊](https://docs.google.com/presentation/d/e/2PACX-1vQq2q_8N_t-H-ONJ8NAJ4FoIBaRMWq-zYirz8RJlP-O4GbzQerupIGLT9UOHkVmawvoaewJNOiT_cpv/pub?start=false&loop=false&delayms=3000)
+
 *[20240425 刻板印象威脅]()
 
 *[20230617 Self tracking and health management]()
