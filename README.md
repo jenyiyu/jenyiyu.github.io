@@ -1,11 +1,11 @@
 # Presentation
-*[20240501 科技與性別化創新 Week 11]()
+*[20240508 科技與性別化創新 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vRxgWN0k-FFsSYy3VBznT-OLJTpjFMM5JrQNKMILjU6jVbnEqbU7DAvFWDZ_wGBrJnfh3MuJ9_pJO39/pub?start=false&loop=false&delayms=3000)
 
 *[20240501 工作身體與時空 Week 11]()
 
-*[20240503 社會學 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vRELm2tLcyxIsd7W9cLuXSb7m4yLhkntbN80PIFq3R6gJOkWAYvAj0GdNvTRVfOs2khuA-Mxe2BzAZ5/pub?start=false&loop=false&delayms=3000)
+*[20240503 社會學 Week 11]()
 
-*[20240426 開放資料與視覺化工作坊](https://docs.google.com/presentation/d/e/2PACX-1vQq2q_8N_t-H-ONJ8NAJ4FoIBaRMWq-zYirz8RJlP-O4GbzQerupIGLT9UOHkVmawvoaewJNOiT_cpv/pub?start=false&loop=false&delayms=3000)
+*[20240426 開放資料與視覺化工作坊]()
 
 *[20240425 刻板印象威脅]()
 
