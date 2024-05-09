@@ -1,9 +1,9 @@
 # Presentation
-*[20240508 科技與性別化創新 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vRxgWN0k-FFsSYy3VBznT-OLJTpjFMM5JrQNKMILjU6jVbnEqbU7DAvFWDZ_wGBrJnfh3MuJ9_pJO39/pub?start=false&loop=false&delayms=3000)
+*[20240508 科技與性別化創新 Week 12]()
 
-*[20240501 工作身體與時空 Week 11]()
+*[20240508 工作身體與時空 Week 12]()
 
-*[20240503 社會學 Week 11]()
+*[20240510 社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSe4SuM1wbCcFH8_SkWpbWfS2QXlrSrQyqHwWmyWm5O9hS5IM-Et5pjTlIv5Z2cbKsC_GRZcIRqF9wB/pub?start=false&loop=false&delayms=3000)
 
 *[20240426 開放資料與視覺化工作坊]()
 
