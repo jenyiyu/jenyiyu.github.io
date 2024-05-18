@@ -3,11 +3,11 @@
 
 *[20240515 工作身體與時空 Week 13]()
 
-*[20240517 社會學 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vTLxbYz3dkSVkUYIZQndo-ADNWarplfsTXhkE1maAYdYar9yTyhMK5GYAisdCaiYoiH3zGzHPpYUaPt/pub?start=false&loop=false&delayms=3000)
+*[20240517 社會學 Week 13]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
-*[20240425 刻板印象威脅]()
+*[20240518 臺灣性別100+問分享會](https://docs.google.com/presentation/d/e/2PACX-1vQsFYSyideFW4Z9NxcJ2kaKJqtQuFTEa1Xzs-wdjeANxq5anwt8ggIMnSbPptMjBNqurL_pB2VW821p/pub?start=false&loop=false&delayms=3000)
 
 *[20230617 Self tracking and health management]()
 
