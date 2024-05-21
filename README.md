@@ -1,9 +1,9 @@
 # Presentation
-*[20240515 科技與性別化創新 Week 13]()
+*[20240522 科技與性別化創新 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vT_q__to41wDGnGDAFtbMGMHffCME9lx5PuSW1YxnNwLgqQ8W5btHSAWCoT_D2moNbSz4oeoNisX6Ik/pub?start=false&loop=false&delayms=3000)
 
-*[20240515 工作身體與時空 Week 13]()
+*[20240522 工作身體與時空 Week 14]()
 
-*[20240517 社會學 Week 13]()
+*[20240524 社會學 Week 14]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
