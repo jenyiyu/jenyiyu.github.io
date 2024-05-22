@@ -1,13 +1,13 @@
 # Presentation
-*[20240522 科技與性別化創新 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vT_q__to41wDGnGDAFtbMGMHffCME9lx5PuSW1YxnNwLgqQ8W5btHSAWCoT_D2moNbSz4oeoNisX6Ik/pub?start=false&loop=false&delayms=3000)
+*[20240522 科技與性別化創新 Week 14]()
 
-*[20240522 工作身體與時空 Week 14]()
+*[20240522 工作身體與時空 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vR2JkoWDtmyZgyjW25dAHImORNnOtXpeN2dKp6VlLR1Hr2bHsCvN6h65tiXMvGn36LCEeA4Ft23hTWo/pub?start=false&loop=false&delayms=3000)
 
 *[20240524 社會學 Week 14]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
-*[20240521 女性主義理論](https://docs.google.com/presentation/d/e/2PACX-1vR6dEjWTdYe6c6iEQK7atayGbwOqp5-gHhaUNz8cQgBJfWTPLVaIIqoaJ_fkk_8-fF-WuqsP1b2qWbc/pub?start=false&loop=false&delayms=3000)
+*[20240521 女性主義理論]()
 
 *[20240525 臺灣性別100+問分享會](https://docs.google.com/presentation/d/e/2PACX-1vQsFYSyideFW4Z9NxcJ2kaKJqtQuFTEa1Xzs-wdjeANxq5anwt8ggIMnSbPptMjBNqurL_pB2VW821p/pub?start=false&loop=false&delayms=3000)
 
