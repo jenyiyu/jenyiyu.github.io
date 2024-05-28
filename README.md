@@ -1,15 +1,15 @@
 # Presentation
-*[20240522 科技與性別化創新 Week 14]()
+*[20240529 科技與性別化創新 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vSsgjqYjiA4Kmt1Rj-VoHqsrf2xD68e6MB5KpAnjTt1dLnf8XsgY6ZCxfoHwfl-ZAB0Ylpc2jM9hHYW/pub?start=false&loop=false&delayms=3000)
 
-*[20240522 工作身體與時空 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vR2JkoWDtmyZgyjW25dAHImORNnOtXpeN2dKp6VlLR1Hr2bHsCvN6h65tiXMvGn36LCEeA4Ft23hTWo/pub?start=false&loop=false&delayms=3000)
+*[20240529 工作身體與時空 Week 15](
 
-*[20240524 社會學 Week 14]()
+*[20240531 社會學 Week 15]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
 *[20240521 女性主義理論]()
 
-*[20240525 臺灣性別100+問分享會](https://docs.google.com/presentation/d/e/2PACX-1vQsFYSyideFW4Z9NxcJ2kaKJqtQuFTEa1Xzs-wdjeANxq5anwt8ggIMnSbPptMjBNqurL_pB2VW821p/pub?start=false&loop=false&delayms=3000)
+*[20240525 臺灣性別100+問分享會]()
 
 *[20230617 Self tracking and health management]()
 
