@@ -1,7 +1,7 @@
 # Presentation
-*[20240605 科技與性別化創新 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vQxNp3MU8l2FvWBiUnEdNb3COvXENEDtFMEgb8fMcag1imISBSsnfYuGncBE1Gu4YMqleGoPDrVtuXi/pub?start=false&loop=false&delayms=3000)
+*[20240605 科技與性別化創新 Week 16]()
 
-*[20240605 工作身體與時空 Week 16]()
+*[20240605 工作身體與時空 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vRv9dzQ23AXSxcT684_sXc7LfKYKes_riQF19JVhoOA-fl6XaR_g078ezrhThNoSbwYdnqx2jX5TKGC/pub?start=false&loop=false&delayms=3000)
 
 *[20240607 社會學 Week 16]()
 
