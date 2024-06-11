@@ -1,9 +1,9 @@
 # Presentation
-*[20240605 科技與性別化創新 Week 16]()
+*[20240612 科技與性別化創新 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vTqLH6OjmAp4lpZzgugJOhaLnEqOo6Zh7JovrnKx0n7h-15cIoIoagqQPc_9kUCrI9c1UqoUKkhJDUX/pub?start=false&loop=false&delayms=3000)
 
-*[20240605 工作身體與時空 Week 16]()
+*[20240612 工作身體與時空 Week 17 性別百工展討論]()
 
-*[20240607 社會學 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vTegm3Q2ActvuRRNnuMHL9UN_zoA3V6CcYKr2YJ4x6MUg4zp2BrjzrOg4hDHw1YPeccrXSKdzcdPY8w/pub?start=false&loop=false&delayms=3000)
+*[20240614 社會學 Week 17]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
