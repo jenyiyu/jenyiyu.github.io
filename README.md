@@ -1,7 +1,7 @@
 # Presentation
-*[20240612 科技與性別化創新 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vTqLH6OjmAp4lpZzgugJOhaLnEqOo6Zh7JovrnKx0n7h-15cIoIoagqQPc_9kUCrI9c1UqoUKkhJDUX/pub?start=false&loop=false&delayms=3000)
+*[20240612 科技與性別化創新 Week 17]()
 
-*[20240612 工作身體與時空 Week 17 性別百工展討論]()
+*[20240612 工作身體與時空 Week 17 性別百工展討論](https://docs.google.com/presentation/d/e/2PACX-1vQrthmI5CxsaLj6VlGiUqIJn1Z2LK672yZo-qkalClU48Cw91PvRZv5UI1VF-CoRIqKLuyeLygpJKtK/pub?start=false&loop=false&delayms=3000)
 
 *[20240614 社會學 Week 17]()
 
