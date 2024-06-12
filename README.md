@@ -3,6 +3,8 @@
 
 *[20240612 工作身體與時空 Week 17 性別百工展討論](https://docs.google.com/presentation/d/e/2PACX-1vQrthmI5CxsaLj6VlGiUqIJn1Z2LK672yZo-qkalClU48Cw91PvRZv5UI1VF-CoRIqKLuyeLygpJKtK/pub?start=false&loop=false&delayms=3000)
 
+*[20240612 性別百工展託物民族誌](https://docs.google.com/presentation/d/e/2PACX-1vTOh79pQMENTOfVa0oKHpULtcqyVFHLhzjGKyHmPfh9RM5394QrUHfNzWAp3PGZi5G0GVgp3GCDqzYc/pub?start=false&loop=false&delayms=3000)
+
 *[20240614 社會學 Week 17]()
 
 *[20240426 開放資料與視覺化工作坊]()
