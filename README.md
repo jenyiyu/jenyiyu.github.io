@@ -1,11 +1,9 @@
 # Presentation
 *[20240612 科技與性別化創新 Week 17]()
 
-*[20240612 工作身體與時空 Week 17 性別百工展討論](https://docs.google.com/presentation/d/e/2PACX-1vQrthmI5CxsaLj6VlGiUqIJn1Z2LK672yZo-qkalClU48Cw91PvRZv5UI1VF-CoRIqKLuyeLygpJKtK/pub?start=false&loop=false&delayms=3000)
+*[20240612 工作身體與時空 Week 17 性別百工展討論]()
 
-*[20240612 性別百工展託物民族誌](https://docs.google.com/presentation/d/e/2PACX-1vTOh79pQMENTOfVa0oKHpULtcqyVFHLhzjGKyHmPfh9RM5394QrUHfNzWAp3PGZi5G0GVgp3GCDqzYc/pub?start=false&loop=false&delayms=3000)
-
-*[20240614 社會學 Week 17]()
+*[20240614 社會學 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRQ_QBqIbx_78waDyMQq16oO1py12ddJl7mIQo1R_IbqHb6iJqIW4J-BTPzDivg2yZsKt9Ievc54WtL/pub?start=false&loop=false&delayms=3000)
 
 *[20240426 開放資料與視覺化工作坊]()
 
