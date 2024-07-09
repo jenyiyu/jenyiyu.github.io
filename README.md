@@ -1,7 +1,9 @@
 # Presentation
+*[20240710 人社營 醫療如何性別化](https://docs.google.com/presentation/d/e/2PACX-1vSnlvhbgYlk7QmsHFYM9fXOr2BiKFclLzgkmkrtDeFkSCfdngkA8SQ4K2VibFw4rVXscnUjz5FtlCta/pub?start=false&loop=false&delayms=3000)
+
 *[20240612 科技與性別化創新 Week 17]()
 
-*[20240619 工作身體與時空 Week 18 期末總論](https://docs.google.com/presentation/d/e/2PACX-1vSDUgaBatVxo6xzxAWbY9fjvktAIlguJPiwHO8i03fSatz1taWyUN5-Y1sQkAuHtKarEG3QQkNrmEyK/pub?start=false&loop=false&delayms=3000)
+*[20240619 工作身體與時空 Week 18 期末總論]()
 
 *[20240614 社會學 Week 17]()
 
