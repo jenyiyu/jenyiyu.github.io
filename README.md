@@ -1,5 +1,7 @@
 # Presentation
-*[20240710 人社營 醫療如何性別化](https://docs.google.com/presentation/d/e/2PACX-1vSnlvhbgYlk7QmsHFYM9fXOr2BiKFclLzgkmkrtDeFkSCfdngkA8SQ4K2VibFw4rVXscnUjz5FtlCta/pub?start=false&loop=false&delayms=3000)
+*[202400814 人權營 AI與性別](https://docs.google.com/presentation/d/1e9fsgGh9slcPvjtX1SIxrINNK0glxvSJaN19jlcUSWU/pub?start=false&loop=false&delayms=3000)
+
+*[20240710 人社營 醫療如何性別化]()
 
 *[20240612 科技與性別化創新 Week 17]()
 
