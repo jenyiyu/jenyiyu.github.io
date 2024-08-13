@@ -1,5 +1,5 @@
 # Presentation
-*[202400814 人權營 AI與性別](https://docs.google.com/presentation/d/1e9fsgGh9slcPvjtX1SIxrINNK0glxvSJaN19jlcUSWU/pub?start=false&loop=false&delayms=3000)
+*[20240814 人權營 AI與性別](https://docs.google.com/presentation/d/1e9fsgGh9slcPvjtX1SIxrINNK0glxvSJaN19jlcUSWU/pub?start=false&loop=false&delayms=3000)
 
 *[20240710 人社營 醫療如何性別化]()
 
