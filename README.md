@@ -7,7 +7,7 @@
 
 *[20240426 開放資料與視覺化工作坊]()
 
-*[20240521 女性主義理論]()
+*[20240908 社群調查視覺化](https://docs.google.com/presentation/d/18ehgoQXKNwitwkUOFT3ztpGnzeV0AcwBjMccMg9AgHw/pub?start=false&loop=false&delayms=3000)
 
 *[20240525 臺灣性別100+問分享會]()
 
