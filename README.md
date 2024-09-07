@@ -1,9 +1,9 @@
 # Presentation
 *[20240909 數位生活記錄 Week 1](https://docs.google.com/presentation/d/1FQrcKOy8kbYlMv8PCUVfjou5uxfKNjxXuCNTGUcz7HQ/pub?start=false&loop=false&delayms=3000)
 
-*[20240619 工作身體與時空 Week 18 期末總論]()
+*[20240909 普通社會學 Week 1]()
 
-*[20240614 社會學 Week 17]()
+*[20240910 性別、醫療與健康 Week 1]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
