@@ -1,9 +1,5 @@
 # Presentation
-*[20240814 人權營 AI與性別](https://docs.google.com/presentation/d/1e9fsgGh9slcPvjtX1SIxrINNK0glxvSJaN19jlcUSWU/pub?start=false&loop=false&delayms=3000)
-
-*[20240710 人社營 醫療如何性別化]()
-
-*[20240612 科技與性別化創新 Week 17]()
+*[20240909 數位生活記錄 Week 1](https://docs.google.com/presentation/d/1FQrcKOy8kbYlMv8PCUVfjou5uxfKNjxXuCNTGUcz7HQ/pub?start=false&loop=false&delayms=3000)
 
 *[20240619 工作身體與時空 Week 18 期末總論]()
 
