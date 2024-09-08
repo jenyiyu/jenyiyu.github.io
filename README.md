@@ -1,13 +1,13 @@
 # Presentation
 *[20240909 數位生活記錄 Week 1](https://docs.google.com/presentation/d/1FQrcKOy8kbYlMv8PCUVfjou5uxfKNjxXuCNTGUcz7HQ/pub?start=false&loop=false&delayms=3000)
 
-*[20240909 普通社會學 Week 1]()
+*[20240909 普通社會學 Week 1](https://docs.google.com/presentation/d/12-BxsRv7kB1QteM8n8r7_nymVvPVGKYQl-UJ0A36398/pub?start=false&loop=false&delayms=3000)
 
 *[20240910 性別、醫療與健康 Week 1]()
 
 *[20240426 開放資料與視覺化工作坊]()
 
-*[20240908 社群調查視覺化](https://docs.google.com/presentation/d/18ehgoQXKNwitwkUOFT3ztpGnzeV0AcwBjMccMg9AgHw/pub?start=false&loop=false&delayms=3000)
+*[20240908 社群調查視覺化]()
 
 *[20240525 臺灣性別100+問分享會]()
 
