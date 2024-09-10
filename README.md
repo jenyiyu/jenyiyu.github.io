@@ -1,9 +1,9 @@
 # Presentation
-*[20240909 數位生活記錄 Week 1](https://docs.google.com/presentation/d/1FQrcKOy8kbYlMv8PCUVfjou5uxfKNjxXuCNTGUcz7HQ/pub?start=false&loop=false&delayms=3000)
+*[20240909 數位生活記錄 Week 1]()
 
-*[20240909 普通社會學 Week 1](https://docs.google.com/presentation/d/12-BxsRv7kB1QteM8n8r7_nymVvPVGKYQl-UJ0A36398/pub?start=false&loop=false&delayms=3000)
+*[20240909 普通社會學 Week 1]()
 
-*[20240910 性別、醫療與健康 Week 1]()
+*[20240910 性別、醫療與健康 Week 1](https://docs.google.com/presentation/d/1JqC8rtg0o0J8HdehqWeIBcEqrau8m0-gUWB8oCP0TFs/pub?start=false&loop=false&delayms=3000)
 
 *[20240426 開放資料與視覺化工作坊]()
 
