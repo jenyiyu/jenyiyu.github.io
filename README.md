@@ -1,7 +1,7 @@
 # Presentation
 *[20240916 數位生活記錄 Week 2](https://docs.google.com/presentation/d/14o5pKZr380OyfMIcAZCpN2w6dFN_9rr_xU1pt-WwFbo/pub?start=false&loop=false&delayms=3000)
 
-*[20240916 普通社會學 Week 2]()
+*[20240916 普通社會學 Week 2](https://docs.google.com/presentation/d/1UmgFgnqYtryw4DcpfuY2dWN-xoOgdySg_YKN486hfiw/pub?start=false&loop=false&delayms=3000)
 
 *[20240910 性別、醫療與健康 Week 1]()
 
