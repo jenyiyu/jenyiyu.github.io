@@ -1,13 +1,13 @@
 # Presentation
-*[20240923 數位生活記錄 Week 3]()
+*[20240930 數位生活記錄 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vSSRcwDfKKWATkppKW6ZN6ba4w-fBGrk7QW6AM5l19rNXJxN_4awN5YuL18ZWKc4nLMY_B8HJwG4QJB/pub?start=false&loop=false&delayms=3000)
 
-*[20240923 普通社會學 Week 3]()
+*[20240930 普通社會學 Week 4]()
 
-*[20240924 性別、醫療與健康 Week 3](https://docs.google.com/presentation/d/1XXLhOMBIyqxCaRPZ8z7fHMEdQjLyp9P0bHN1Lvzezj8/pub?start=false&loop=false&delayms=3000)
+*[20241001 性別、醫療與健康 Week 4]()
 
-*[20240921 性別所論壇]()
+*[20241005 女學會年會 AI can help？]()
 
-*[20240908 社群調查視覺化]()
+*[20240908 女學會社群調查結果]()
 
 *[20240525 臺灣性別100+問分享會]()
 
