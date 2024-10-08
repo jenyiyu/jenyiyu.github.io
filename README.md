@@ -1,9 +1,9 @@
 # Presentation
-*[20241007 數位生活記錄 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vTUBy1Qj-9r5zJe7WJbeTwMb-08lkHWqgR5-CIw9KFCZGsq6wIQct9K_T2C-R01RZ8zA80Pv9RnyNPX/pub?start=false&loop=false&delayms=3000)
+*[20241007 數位生活記錄 Week 5]()
 
-*[20241007 普通社會學 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vTJQ_2Cu8uyW1lv6QQyqunWF6rYN40JYpcDZuaVTptCazu8NT0cuLTqJojLwqdhpLgn9s_USbzjayEp/pub?start=false&loop=false&delayms=3000)
+*[20241007 普通社會學 Week 5]()
 
-*[20241008 性別、醫療與健康 Week 5]()
+*[20241008 性別、醫療與健康 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vQCihX_uJi73BRaAuAn7FLehqvmRA08H64y8RdLzcykCS6RLadcmmoGGs80O16QQ7bb_gQDgzCeJERZ/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
