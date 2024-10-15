@@ -1,9 +1,11 @@
 # Presentation
-*[20241014 數位生活記錄 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vSdyJ4k1eUXG9eVdW77EL0Zt4unMhnpKCIHSE8q7-uHiEi_2MSaGd7s8Sg0JgeMJQ8gB_w7DcDuExcP/pub?start=false&loop=false&delayms=3000)
+*[20241014 數位生活記錄 Week 6]()
 
-*[20241014 普通社會學 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTNHt7YUUdHgi5_bTZvwoar-muHkZKpatvaDubPnixTvKKmTa7RPSCa7KAOfgNzcTCtZNgUaxdhMoBZ/pub?start=false&loop=false&delayms=3000)
+*[20241014 普通社會學 Week 6]()
 
 *[20241015 性別、醫療與健康 Week 6]()
+
+*[20241015 超高齡解方 青銀共居](https://docs.google.com/presentation/d/e/2PACX-1vR4D2PRVS3MH3PaYHhXKQ8vHnvn28VuxHEErfZ7M0i3bgazbmA1DNEd11eIZChA15s7ZpPVKPp7pRGV/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
