@@ -1,9 +1,9 @@
 # Presentation
-*[20241028 數位生活記錄 Week 8]()
+*[20241104 數位生活記錄 Week 9](https://docs.google.com/presentation/d/e/2PACX-1vTtBr8u0FC_U6G7dgl_ttOE8vY05f50W_hJFEnpCOJTexwRHKrn3Qs_vH09ivQTOXKoepRGDGwoE0SG/pub?start=false&loop=false&delayms=3000)
 
 *[20241028 普通社會學 Week 8]()
 
-*[20241029 性別、醫療與健康 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vSM9PafgTD4YhwvRX1VzDc-9_0qvKvh9LYXTrm3coys7uuFwdfPvBIxjgOglbMUcgpLg1B_jkoT7pMw/pub?start=false&loop=false&delayms=3000)
+*[20241029 性別、醫療與健康 Week 8]()
 
 *[20241015 超高齡解方 青銀共居]()
 
