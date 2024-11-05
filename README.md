@@ -3,7 +3,7 @@
 
 *[20241028 普通社會學 Week 8]()
 
-*[20241029 性別、醫療與健康 Week 8]()
+*[20241105 性別、醫療與健康 Week 9](https://docs.google.com/presentation/d/e/2PACX-1vT2bSJc8Ote0v_co4fc4xN_Wvw3Kr342-Rq38YWwMR9R-hauF4fGtJF7cZPyGfBa9JYQ8H8tGhJW4Nw/pub?start=false&loop=false&delayms=3000)
 
 *[20241015 超高齡解方 青銀共居]()
 
