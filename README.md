@@ -3,9 +3,9 @@
 
 *[20241111 普通社會學 Week 10]()
 
-*[20241112 性別、醫療與健康 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQEmz_e-BFrq6ysMe9aiTkXu5uhgwfgQeqxCYMnciC_tCgnwBqHBJWHrDlbijFmdB55RFEhY7UE-CPd/pub?start=false&loop=false&delayms=3000)
+*[20241112 性別、醫療與健康 Week 10]()
 
-*[20241015 超高齡解方 青銀共居]()
+*[20241113 2024招生小物](https://docs.google.com/presentation/d/e/2PACX-1vTyUvxLdnVBQ9SFIUU3-V7f6Ha3tvVEbW2MQ7bn1HrZ1USlZrWOgQH4uVtwY9QKY648ToOlXkFvsAQm/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
