@@ -1,11 +1,11 @@
 # Presentation
-*[20241111 數位生活記錄 Week 10]()
+*[20241118 數位生活記錄 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vT9jGaIdvmSYMATAvCDcEX1eQWI6YsIBdB2LwjQg8cmvOFZ4SnfY7ffK4qsZRSf26jTwkAKEHTO8NJj/pub?start=false&loop=false&delayms=3000)
 
 *[20241111 普通社會學 Week 10]()
 
 *[20241112 性別、醫療與健康 Week 10]()
 
-*[20241113 2024招生小物](https://docs.google.com/presentation/d/e/2PACX-1vTyUvxLdnVBQ9SFIUU3-V7f6Ha3tvVEbW2MQ7bn1HrZ1USlZrWOgQH4uVtwY9QKY648ToOlXkFvsAQm/pub?start=false&loop=false&delayms=3000)
+*[20241113 2024招生小物]()
 
 *[20241005 女學會年會 AI can help？]()
 
