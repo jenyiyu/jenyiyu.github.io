@@ -3,9 +3,9 @@
 
 *[20241118 普通社會學 Week 11]()
 
-*[20241119 性別、醫療與健康 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vSVbkS7TE_4QhyUKGrM7tTNkKDJpsOMlcaAXA9WyL0Iw_5PR-Ai1xoGLApJ6ODQXQRVt3AM-nW197Dw/pub?start=false&loop=false&delayms=3000)
+*[20241119 性別、醫療與健康 Week 11]()
 
-*[20241113 2024招生小物]()
+*[20241124 2024社會學年會評論](https://docs.google.com/presentation/d/e/2PACX-1vQOIKKx-GgwgRgShnKSDad9ydz25bL46eJv1sEe4lgTmBQNEjLsbSbwOwU2H3sH4OTb2K-L5ALHh3qq/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
