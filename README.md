@@ -1,11 +1,11 @@
 # Presentation
-*[20241118 數位生活記錄 Week 11]()
+*[20241125 數位生活記錄 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQd1tJEMZd32TfqCEXnLu5CRpjxBRtGUG7umysSRywrYy5xmtS5F5uR79LwHP5DAl2Ge4GbVyHnd_5W/pub?start=false&loop=false&delayms=3000)
 
 *[20241118 普通社會學 Week 11]()
 
 *[20241119 性別、醫療與健康 Week 11]()
 
-*[20241124 2024社會學年會評論](https://docs.google.com/presentation/d/e/2PACX-1vQOIKKx-GgwgRgShnKSDad9ydz25bL46eJv1sEe4lgTmBQNEjLsbSbwOwU2H3sH4OTb2K-L5ALHh3qq/pub?start=false&loop=false&delayms=3000)
+*[20241124 2024社會學年會評論]()
 
 *[20241005 女學會年會 AI can help？]()
 
