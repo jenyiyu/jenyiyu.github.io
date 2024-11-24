@@ -1,7 +1,7 @@
 # Presentation
 *[20241125 數位生活記錄 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vQd1tJEMZd32TfqCEXnLu5CRpjxBRtGUG7umysSRywrYy5xmtS5F5uR79LwHP5DAl2Ge4GbVyHnd_5W/pub?start=false&loop=false&delayms=3000)
 
-*[20241118 普通社會學 Week 11]()
+*[20241125 普通社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSI5spYm5sfIO7Am6woZ_kRsPmNAPSRcjbZoAixzkdyswnjyXPQKXaBPmKZDag_CSxAsM2YteT16MiD/pub?start=false&loop=false&delayms=3000)
 
 *[20241119 性別、醫療與健康 Week 11]()
 
