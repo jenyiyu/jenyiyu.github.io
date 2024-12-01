@@ -1,9 +1,9 @@
 # Presentation
-*[20241125 數位生活記錄 Week 12]()
+*[20241202 數位生活記錄 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQ_SW5-qPsH13zril2AcpFrOsjziLUptu61CcykPqKZxDNhiEwadVtsoebYGWinn6543I9gPvVoj461/pub?start=false&loop=false&delayms=3000)
 
-*[20241125 普通社會學 Week 12]()
+*[20241202 普通社會學 Week 13]()
 
-*[20241125 性別、醫療與健康 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSGMhZom6tJekEwF_EDhlgRp2SW45-QWsQmtEYEV3kkHuSg0Oc84y4Y3xY8PuNKBgUNDHn4xvX_MH1N/pub?start=false&loop=false&delayms=3000)
+*[20241125 性別、醫療與健康 Week 12]()
 
 *[20241124 2024社會學年會評論]()
 
