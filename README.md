@@ -1,9 +1,9 @@
 # Presentation
-*[20241202 數位生活記錄 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQ_SW5-qPsH13zril2AcpFrOsjziLUptu61CcykPqKZxDNhiEwadVtsoebYGWinn6543I9gPvVoj461/pub?start=false&loop=false&delayms=3000)
+*[20241202 數位生活記錄 Week 13]()
 
-*[20241202 普通社會學 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vTlNDnZuAikA3NzsI68cVVNH8Gon3PIAdaZS4WxmahD0cB1fLNd3XbQS1x4N20OPV1B1_LdWHLbySNM/pub?start=false&loop=false&delayms=3000)
+*[20241202 普通社會學 Week 13]()
 
-*[20241203 性別、醫療與健康 Week 13]()
+*[20241203 性別、醫療與健康 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQwG8bx-ypMcW-YwnLpxReU6Xu_UUqifSo9fTn59WlsFjS5YTNqzDBuDZnehK8s0UPWADw4zMCnWmmF/pub?start=false&loop=false&delayms=3000)
 
 *[20241204 AI for social good]()
 
