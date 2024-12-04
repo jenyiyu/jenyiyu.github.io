@@ -3,9 +3,9 @@
 
 *[20241202 普通社會學 Week 13]()
 
-*[20241203 性別、醫療與健康 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vQwG8bx-ypMcW-YwnLpxReU6Xu_UUqifSo9fTn59WlsFjS5YTNqzDBuDZnehK8s0UPWADw4zMCnWmmF/pub?start=false&loop=false&delayms=3000)
+*[20241203 性別、醫療與健康 Week 13]()
 
-*[20241204 AI for social good]()
+*[20241204 AI for social good](https://docs.google.com/presentation/d/e/2PACX-1vRa4BRUvRoEqn27tQqQBRzHsx3OD_cxxa8f3B8TSF5AVFw6pg9kW7wMcfsCtllmJBaJDgeTLLkMXboM/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
