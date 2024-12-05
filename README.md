@@ -5,7 +5,7 @@
 
 *[20241203 性別、醫療與健康 Week 13]()
 
-*[20241204 AI for social good](https://docs.google.com/presentation/d/e/2PACX-1vRa4BRUvRoEqn27tQqQBRzHsx3OD_cxxa8f3B8TSF5AVFw6pg9kW7wMcfsCtllmJBaJDgeTLLkMXboM/pub?start=false&loop=false&delayms=3000)
+*[20241205 人社倫理課程](https://docs.google.com/presentation/d/e/2PACX-1vTyvi5TsghxDOVRXAHMxmfQ-oQNwiRqZ5Q3E2KPqJWwaFxkhBLOnwoDby5hvK5kaIF6OXszxuNce-_N/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
