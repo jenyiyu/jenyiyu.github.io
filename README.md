@@ -1,11 +1,11 @@
 # Presentation
-*[20241202 數位生活記錄 Week 13]()
+*[20241209 數位生活記錄 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vQc1J9EiNdezo9rSWNtK2vNR3H_sNo7FMFBe9Ml3EqdnUxWqr_LfGO51VkJgH_JnDXlz8Cep0viL51U/pub?start=false&loop=false&delayms=3000)
 
-*[20241202 普通社會學 Week 13]()
+*[20241209 普通社會學 Week 14]()
 
-*[20241203 性別、醫療與健康 Week 13]()
+*[20241210 性別、醫療與健康 Week 14]()
 
-*[20241205 人社倫理課程](https://docs.google.com/presentation/d/e/2PACX-1vTyvi5TsghxDOVRXAHMxmfQ-oQNwiRqZ5Q3E2KPqJWwaFxkhBLOnwoDby5hvK5kaIF6OXszxuNce-_N/pub?start=false&loop=false&delayms=3000)
+*[20241205 人社倫理課程]()
 
 *[20241005 女學會年會 AI can help？]()
 
