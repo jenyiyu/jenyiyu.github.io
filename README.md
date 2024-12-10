@@ -1,11 +1,11 @@
 # Presentation
-*[20241209 數位生活記錄 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vQc1J9EiNdezo9rSWNtK2vNR3H_sNo7FMFBe9Ml3EqdnUxWqr_LfGO51VkJgH_JnDXlz8Cep0viL51U/pub?start=false&loop=false&delayms=3000)
+*[20241209 數位生活記錄 Week 14]()
 
-*[20241209 普通社會學 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vTlNDnZuAikA3NzsI68cVVNH8Gon3PIAdaZS4WxmahD0cB1fLNd3XbQS1x4N20OPV1B1_LdWHLbySNM/pub?start=false&loop=false&delayms=3000)
+*[20241209 普通社會學 Week 13]()
 
-*[20241209 普通社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vSXXY1ANJlTNipZv3LRMCAhujQxzOF8pM4DSGH3KRvAJiHfykgq0Y1BiwJ1-MBOx03dKNcxz8wznPcZ/pub?start=false&loop=false&delayms=3000)
+*[20241209 普通社會學 Week 14]()
 
-*[20241210 性別、醫療與健康 Week 14]()
+*[20241210 性別、醫療與健康 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTYwjlNR-thBZxhs65UxTtl3QaCGhPbuIdxJ0s0rnBLha7Iz4vnVWMaVvXaB7bh0vMO2h1a1c9LRZMm/pub?start=false&loop=false&delayms=3000)
 
 *[20241205 人社倫理課程]()
 
