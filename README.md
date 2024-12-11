@@ -5,9 +5,9 @@
 
 *[20241209 普通社會學 Week 14]()
 
-*[20241210 性別、醫療與健康 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vTYwjlNR-thBZxhs65UxTtl3QaCGhPbuIdxJ0s0rnBLha7Iz4vnVWMaVvXaB7bh0vMO2h1a1c9LRZMm/pub?start=false&loop=false&delayms=3000)
+*[20241210 性別、醫療與健康 Week 14]()
 
-*[20241205 人社倫理課程]()
+*[20241211 基因與社會行為](https://docs.google.com/presentation/d/e/2PACX-1vS0-V5W4WBMcdIjzgtvwVtP8E6gm5gj2FdmAGqv2d8x2mc-WwlkSPDdwVZPPK3Z4e8kxnfmc0ER_QW0/pub?start=false&loop=false&delayms=3000)
 
 *[20241005 女學會年會 AI can help？]()
 
