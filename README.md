@@ -3,7 +3,7 @@
 
 *[20241230 普通社會學 Week 17]()
 
-*[20250107 性別、醫療與健康 Week 18](https://docs.google.com/presentation/d/e/2PACX-1vQcQNI08lL8DOvTP94AEufla9gh5N2ZuLMXJ0gViA8o4Ja98OhF2NFdYNLtUupQ7-qbLKzfRg6shBwL/pub?start=false&loop=false&delayms=3000)
+*[20250107 性別、醫療與健康 Week 18]()
 
 *[20241211 基因與社會行為]()
 
