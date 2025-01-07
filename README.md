@@ -1,9 +1,9 @@
 # Presentation
-*[20241230 數位生活記錄 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRBhkc2tN_K-oxB1x1eTQCqgDhirR6Xb3s3O_8tWAi_lrqQ0Oj9WBtMhZuxx6_XDLSclvNE8xUTq1Ik/pub?start=false&loop=false&delayms=3000)
+*[20241230 數位生活記錄 Week 17]()
 
-*[20241230 普通社會學 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRLueo0KkImGet5R74inWN7OPmBUul3NByUIbKzfR9UIhNohToYedYI_PxC82W5CREO60oyiGzC0_8U/pub?start=false&loop=false&delayms=3000)
+*[20241230 普通社會學 Week 17]()
 
-*[20241224 性別、醫療與健康 Week 16]()
+*[20250107 性別、醫療與健康 Week 18](https://docs.google.com/presentation/d/e/2PACX-1vQcQNI08lL8DOvTP94AEufla9gh5N2ZuLMXJ0gViA8o4Ja98OhF2NFdYNLtUupQ7-qbLKzfRg6shBwL/pub?start=false&loop=false&delayms=3000)
 
 *[20241211 基因與社會行為]()
 
