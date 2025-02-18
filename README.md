@@ -1,11 +1,11 @@
 # Presentation
-*[20250205 春之鬧 AI for Social Good](https://docs.google.com/presentation/d/e/2PACX-1vTG1xeSOewt1jgodtLieICyHbOr8F6kEe3ck0swyEG5AmMjgvmzCkbWYBkRrtoxzLXssUV13YtatAJu/pub?start=false&loop=false&delayms=3000)
+*[20250219 科技與性別化創新 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vQMPdkf9DRzT1ycWYvJTnYy479tJAluf25WjGKahnsW4jw4PovVtgC5phlc116JN_mhJ7dN0mnG5O2Z/pub?start=false&loop=false&delayms=3000)
 
-*[20241230 數位生活記錄 Week 17]()
+*[20250220 性別與科技 Week 1]()
 
-*[20241230 普通社會學 Week 17]()
+*[20250221 社會學 Week 1]()
 
-*[20250107 性別、醫療與健康 Week 18]()
+*[20250205 春之鬧 AI for Social Good]()
 
 *[20241005 女學會年會 AI can help？]()
 
