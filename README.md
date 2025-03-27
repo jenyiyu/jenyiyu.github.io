@@ -1,9 +1,9 @@
 # Presentation
 *[20250326 科技與性別化創新 Week 6]()
 
-*[20250327 性別與科技 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTY1REct9sd-x001-HfkdbgPm8tjGh8HewGC3hGCbHqhiygqAYCWf_2eDQfU6pG_eept0uY_masdPEn/pub?start=false&loop=false&delayms=3000)
+*[20250327 性別與科技 Week 6]()
 
-*[20250328 社會學 Week 6]()
+*[20250328 社會學 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vQTqF3BpDYdiLF2wqTI82YCq3pfzhANUyTTbTOBt76Fvt5yzynjmvEfeJnItVPgSMonA3UqQJpdL1Yn/pub?start=false&loop=false&delayms=3000)
 
 *[20250205 春之鬧 AI for Social Good]()
 
