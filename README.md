@@ -5,7 +5,7 @@
 
 *[20250411 社會學 Week 8]()
 
-*[20250410 高師大演講](https://docs.google.com/presentation/d/e/2PACX-1vTTDNsDog4N_SoUPqaD2LR2DloGZY2235jy_FEVn0gyBh6StxJpeXoagpUIKUQtadcnixirVq_5TE5R/pub?start=false&loop=false&delayms=3000)
+*[20250410 高師大性別教育所演講](https://docs.google.com/presentation/d/e/2PACX-1vTTDNsDog4N_SoUPqaD2LR2DloGZY2235jy_FEVn0gyBh6StxJpeXoagpUIKUQtadcnixirVq_5TE5R/pub?start=false&loop=false&delayms=3000)
 
 *[20250205 春之鬧 AI for Social Good]()
 
