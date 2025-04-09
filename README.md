@@ -1,7 +1,7 @@
 # Presentation
 *[20250409 科技與性別化創新 Week 8]()
 
-*[20250410 性別與科技 Week 8]()
+*[20250410 性別與科技 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vQ3eYEVhZp5rufafn-A0zrHEnn-fPIJNU3RAcAYWPkhBDX00rrzfK3XzdoyElsDPOBeU9-dp9P2fqNr/pub?start=false&loop=false&delayms=3000)
 
 *[20250411 社會學 Week 8]()
 
