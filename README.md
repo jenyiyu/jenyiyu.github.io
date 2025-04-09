@@ -1,13 +1,13 @@
 # Presentation
-*[20250409 科技與性別化創新 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vTvQh14HJmoXLBPQc3xupmCR1izt5la5ebKtdqpzvAUTjd6mDqjf9rVuDfCH5I-sheYNaiH4bq_UeK2/pub?start=false&loop=false&delayms=3000)
+*[20250409 科技與性別化創新 Week 8]()
 
 *[20250410 性別與科技 Week 8]()
 
 *[20250411 社會學 Week 8]()
 
-*[20250205 春之鬧 AI for Social Good]()
+*[20250410 高師大演講](https://docs.google.com/presentation/d/e/2PACX-1vTTDNsDog4N_SoUPqaD2LR2DloGZY2235jy_FEVn0gyBh6StxJpeXoagpUIKUQtadcnixirVq_5TE5R/pub?start=false&loop=false&delayms=3000)
 
-*[20241005 女學會年會 AI can help？]()
+*[20250205 春之鬧 AI for Social Good]()
 
 *[20241005 女學會社群問卷調查結果]()
 
