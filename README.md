@@ -1,9 +1,9 @@
 # Presentation
 *[20250423 科技與性別化創新 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vS-OZALEy7TNDdnj2RIoS1eWoTINmBia7OF8sk7U0JUBBo_mzwhXFujeZv5OOVZqPx4i9BaLGFZxQ79/pub?start=false&loop=false&delayms=3000)
 
-*[20250410 性別與科技 Week 8]()
+*[20250424 性別與科技 Week 10]()
 
-*[20250411 社會學 Week 8]()
+*[20250425 社會學 Week 10]()
 
 *[20250205 春之鬧 AI for Social Good]()
 
