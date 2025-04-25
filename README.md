@@ -3,13 +3,13 @@
 
 *[20250424 性別與科技 Week 10]()
 
-*[20250425 社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQteyAyMQjYfFKgdJcyqWq9Rk8OYYZVSW8QLVuPZqq9aKpuLVYNhunVYzgDb6JGO7V9pKE9dACdRZu1/pub?start=false&loop=false&delayms=3000)
+*[20250425 社會學 Week 10]()
+
+*[20250425 性別研究方法工作坊](https://docs.google.com/presentation/d/e/2PACX-1vTBFsxsVQ9UqT-yzo8BodBrEfKmFNNgxlAiEyKdK9XGdlj2ZjvCKlABdu4AHCvzrbFztMQInGnKhkkV/pub?start=false&loop=false&delayms=3000)
 
 *[20250205 春之鬧 AI for Social Good]()
 
 *[20241005 女學會社群問卷調查結果]()
-
-*[20240525 臺灣性別100+問分享會]()
 
 *[20230617 Self tracking and health management]()
 
