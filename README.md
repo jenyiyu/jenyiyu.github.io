@@ -1,11 +1,11 @@
 # Presentation
-*[20250423 科技與性別化創新 Week 10]()
+*[20250430 科技與性別化創新 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vSMKTnWKimk3gVLs4fAV0tBObYOG-m7Z3VFzOHz0rWrcnD97jjw_D5JCzq9E5K5DmKCi5wzWVVy0pHn/pub?start=false&loop=false&delayms=3000)
 
-*[20250424 性別與科技 Week 10]()
+*[20250501 性別與科技 Week 11]()
 
-*[20250425 社會學 Week 10]()
+*[20250502 社會學 Week 11]()
 
-*[20250425 性別研究方法工作坊](https://docs.google.com/presentation/d/e/2PACX-1vTBFsxsVQ9UqT-yzo8BodBrEfKmFNNgxlAiEyKdK9XGdlj2ZjvCKlABdu4AHCvzrbFztMQInGnKhkkV/pub?start=false&loop=false&delayms=3000)
+*[20250425 性別研究方法工作坊]()
 
 *[20250205 春之鬧 AI for Social Good]()
 
