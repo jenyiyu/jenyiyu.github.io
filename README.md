@@ -1,9 +1,9 @@
 # Presentation
-*[20250507 科技與性別化創新 Week 12]()
+*[20250514 科技與性別化創新 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vRhE82SUWBO4KgMlSvZiamg-PiZyPYOYkUdpYds7BKqpgqNMr0sR-6wz19PvFDnCyciHzIVixwezDF7/pub?start=false&loop=false&delayms=3000)
 
-*[20250508 性別與科技 Week 12]()
+*[20250515 性別與科技 Week 13]()
 
-*[20250509 社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vSe4SuM1wbCcFH8_SkWpbWfS2QXlrSrQyqHwWmyWm5O9hS5IM-Et5pjTlIv5Z2cbKsC_GRZcIRqF9wB/pub?start=false&loop=false&delayms=3000)
+*[20250516 社會學 Week 13]()
 
 *[20250425 性別研究方法工作坊]()
 
