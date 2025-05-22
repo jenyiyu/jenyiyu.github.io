@@ -5,7 +5,7 @@
 
 *[20250516 社會學 Week 13](https://docs.google.com/presentation/d/e/2PACX-1vSqx5sXOXHGRuPh8hyof98byqgnhR21JJQhdYZ9FSXUxV3KQwWhSNYpr4pgxXTAqlysDLCOIn2236fb/pub?start=false&loop=false&delayms=3000)
 
-*[20250523 社會學 Week 14]()
+*[20250523 社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vRpoE_zF25d25RXDU_MPkg-zuzx61Z12IR6Gc2pcVdvYdz_cfFGUR3h2AvpizNfC2ypHPjNWeyDV79x/pub?start=false&loop=false&delayms=3000)
 
 *[20250425 性別研究方法工作坊]()
 
