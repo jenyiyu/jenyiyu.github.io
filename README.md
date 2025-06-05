@@ -3,7 +3,7 @@
 
 *[20250605 性別與科技 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vTiaHTNDCxPmtkZxw_YSEB0LAzo2S3ZAVUrphLgeErgy2XWIxty9GsLeSf7XI-Yz-1VjkGsdQPrnukJ/pub?start=false&loop=false&delayms=3000)
 
-*[20250606 社會學 Week 16]()
+*[20250606 社會學 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vT0fgC0lG8aYwZLDRo0iYk7y8uEzpOCaOOJ0nLkXrBqJo2V5ECHGUyk50n4raovs5VX_Mk9nMFeNyy2/pub?start=false&loop=false&delayms=3000)
 
 *[20250425 性別研究方法工作坊]()
 
