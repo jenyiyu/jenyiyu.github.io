@@ -1,9 +1,11 @@
 # Presentation
+*[20250701 114年高中人社班專題討論研習營隊](https://docs.google.com/presentation/d/e/2PACX-1vQE_qPFq6oqTspTyHzTrrW3TAA2g9ahOEub5-zftgKcPr0suLeX5bHz_LaRp3TupOuEPHZQ9vgLbKN6/pub?start=false&loop=false&delayms=3000)
+
 *[20250611 科技與性別化創新 Week 17]()
 
 *[20250612 性別與科技 Week 17]()
 
-*[20250613 社會學 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRQ_QBqIbx_78waDyMQq16oO1py12ddJl7mIQo1R_IbqHb6iJqIW4J-BTPzDivg2yZsKt9Ievc54WtL/pub?start=false&loop=false&delayms=3000)
+*[20250613 社會學 Week 17]()
 
 *[20250425 性別研究方法工作坊]()
 
@@ -12,8 +14,6 @@
 *[20241005 女學會社群問卷調查結果]()
 
 *[20230617 Self tracking and health management]()
-
-*[20230705 高中生人社營評論]()
 
 *[20230721 女書店講座 女性主義對資料的探問]()
 
