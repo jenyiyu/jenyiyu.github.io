@@ -1,7 +1,7 @@
 # Presentation
 *[20250723 國家太空中心 科技與性別]()
 
-*[20250726 女書店講座 AI的倫理存有知識論](https://docs.google.com/presentation/d/e/2PACX-1vRV6pjrrCQkQNl4AXF7irIcNoy5xH_H7kFCJrw4cDLlnchz6hG9qRTB0HcCy9nI4kYXCG2XxPGJuoox/pub?start=false&loop=false&delayms=3000)
+*[20250726 女書店講座 AI的倫理存有知識論]()
 
 *[20250611 科技與性別化創新 Week 17]()
 
