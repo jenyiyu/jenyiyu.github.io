@@ -1,13 +1,13 @@
 # Presentation
-*[20250723 國家太空中心 科技與性別](https://docs.google.com/presentation/d/e/2PACX-1vTpogoc1Ae5xbuAYYQseRQj4LkzcjCdD5kQP2vFJt4eJmrJDZcC5Q7lGRWvcY1oevdgHpY5f27_jH7h/pub?start=false&loop=false&delayms=3000)
+*[20250723 國家太空中心 科技與性別]()
+
+*[20250726 女書店 AI的倫理存有知識論](https://docs.google.com/presentation/d/e/2PACX-1vRV6pjrrCQkQNl4AXF7irIcNoy5xH_H7kFCJrw4cDLlnchz6hG9qRTB0HcCy9nI4kYXCG2XxPGJuoox/pub?start=false&loop=false&delayms=3000)
 
 *[20250611 科技與性別化創新 Week 17]()
 
 *[20250612 性別與科技 Week 17]()
 
 *[20250613 社會學 Week 17]()
-
-*[20250425 性別研究方法工作坊]()
 
 *[20250205 春之鬧 AI for Social Good]()
 
