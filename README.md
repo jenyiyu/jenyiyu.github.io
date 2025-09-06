@@ -1,13 +1,13 @@
 # Presentation
+*[20250908 普通社會學 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vS5OiFgNsRyO52cl7Vi9uEiPhr5vjnhsGZorUrlKzzDmC2JwC-ruf6AYqDXbmU8IlfO4Pb5WHvTP5rg/pub?start=false&loop=false&delayms=3000)
+
+*[20250908 性別、大數據與視覺化 Week 1]()
+
+*[20250909 性別、醫療與健康 Week 1]()
+
 *[20250723 國家太空中心 科技與性別]()
 
 *[20250726 女書店講座 AI的倫理存有知識論]()
-
-*[20250611 科技與性別化創新 Week 17]()
-
-*[20250612 性別與科技 Week 17]()
-
-*[20250613 社會學 Week 17]()
 
 *[20250205 春之鬧 AI for Social Good]()
 
