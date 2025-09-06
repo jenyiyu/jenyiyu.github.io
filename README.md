@@ -5,6 +5,8 @@
 
 *[20250909 性別、醫療與健康 Week 1]()
 
+*[20250908 AI tools regulations](https://docs.google.com/presentation/d/e/2PACX-1vR5vUtUx1rH7EyOEl9rf0s_I1wtI_htGr3z3__RfwQ6uuJfo4OaTtkJ82FgpSicyAsrp8XkFrA4k7kh/pub?start=false&loop=false&delayms=3000)
+
 *[20250723 國家太空中心 科技與性別]()
 
 *[20250726 女書店講座 AI的倫理存有知識論]()
@@ -26,7 +28,6 @@
 *[20230206 春之鬧 數位社會新挑戰]()
 
 *[20230207 春之鬧 實作討論]()
-
 
 *[20211118 演算法政治與數據女性主義]()
 
