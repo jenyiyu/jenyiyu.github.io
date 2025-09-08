@@ -1,11 +1,11 @@
 # Presentation
-*[20250908 普通社會學 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vS5OiFgNsRyO52cl7Vi9uEiPhr5vjnhsGZorUrlKzzDmC2JwC-ruf6AYqDXbmU8IlfO4Pb5WHvTP5rg/pub?start=false&loop=false&delayms=3000)
+*[20250908 普通社會學 Week 1]()
 
-*[20250908 性別、大數據與視覺化 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vSRBeut3AKDE3ISj6ZQyRoGsYqfmmHvahUId13Hc4nDDzUC0eZStDXb_vGYlIz0GpIxUUSduf4QUn2g/pub?start=false&loop=false&delayms=3000)
+*[20250908 性別、大數據與視覺化 Week 1]()
 
-*[20250909 性別、醫療與健康 Week 1]()
+*[20250909 性別、醫療與健康 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vTkN8dy7ORForq6N0v1k5-CY5Sc5f6Y78_wNWXNyQy8PYt5hUzo0Nu0XDXhDTtR7Tpi8qKiLLGKdU6V/pub?start=false&loop=false&delayms=3000)
 
-*[20250908 AI tools regulations](https://docs.google.com/presentation/d/e/2PACX-1vR5vUtUx1rH7EyOEl9rf0s_I1wtI_htGr3z3__RfwQ6uuJfo4OaTtkJ82FgpSicyAsrp8XkFrA4k7kh/pub?start=false&loop=false&delayms=3000)
+*[20250908 AI tools regulations]()
 
 *[20250723 國家太空中心 科技與性別]()
 
