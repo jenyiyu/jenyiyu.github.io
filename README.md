@@ -1,7 +1,7 @@
 # Presentation
-*[20250915 普通社會學 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vR1w6uWf4j7TZQUy32DnqrjbCfNB50j4m6BPsSbiCgZGN2_VlnqOL3RDXsxnbRNRx_mYCpi9dw8hYoj/pub?start=false&loop=false&delayms=3000)
+*[20250915 普通社會學 Week 2]()
 
-*[20250915 性別、大數據與視覺化 Week 2]()
+*[20250915 性別、大數據與視覺化 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vQhfdyMoZ463J1wzSodMaytOw7cAKnitYKoBJQFBAXpxD4WXCreReXd2JyAgDjFoifmpV82BAoIrXXr/pub?start=false&loop=false&delayms=3000)
 
 *[20250916 性別、醫療與健康 Week 2]()
 
