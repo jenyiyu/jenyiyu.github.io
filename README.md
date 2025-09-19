@@ -1,9 +1,11 @@
 # Presentation
-*[20250915 普通社會學 Week 2]()
+*[20250922 普通社會學 Week 3]()
 
-*[20250915 性別、大數據與視覺化 Week 2]()
+*[20250922 性別、大數據與視覺化 Week 3]()
 
-*[20250916 性別、醫療與健康 Week 2]()
+*[20250923 性別、醫療與健康 Week 3]()
+
+*[20250920 賽伯格與花繩遊戲](https://docs.google.com/presentation/d/e/2PACX-1vQq-ZScZ-RH-mHQrDMAekuMzMp13nq72Fec8lt56N27lY5aTpPSv6qVr0_4x-WvF4Z8DbUwjf6nPJPw/pub?start=false&loop=false&delayms=3000)
 
 *[20250908 AI tools regulations]()
 
@@ -16,8 +18,6 @@
 *[20241005 女學會社群問卷調查結果]()
 
 *[20230617 Self tracking and health management]()
-
-*[20230721 女書店講座 女性主義對資料的探問]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
 
