@@ -1,11 +1,11 @@
 # Presentation
-*[20250922 普通社會學 Week 3]()
+*[20250922 普通社會學 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vT32EgO0MFAsEaB6ktjJDK_cPx5bnsSOR0OYT6uNoqDbLK9aW-3-yHpF7ZBdk4iIkWLkP99GGX6jDQe/pub?start=false&loop=false&delayms=3000)
 
 *[20250922 性別、大數據與視覺化 Week 3]()
 
 *[20250923 性別、醫療與健康 Week 3]()
 
-*[20250920 賽伯格與花繩遊戲](https://docs.google.com/presentation/d/e/2PACX-1vQq-ZScZ-RH-mHQrDMAekuMzMp13nq72Fec8lt56N27lY5aTpPSv6qVr0_4x-WvF4Z8DbUwjf6nPJPw/pub?start=false&loop=false&delayms=3000)
+*[20250920 賽伯格與花繩遊戲]()
 
 *[20250908 AI tools regulations]()
 
