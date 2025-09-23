@@ -1,9 +1,9 @@
 # Presentation
 *[20250922 普通社會學 Week 3]()
 
-*[20250922 性別、大數據與視覺化 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vQ7eGFM_cQzn3Za2t2-ucretQRsbT1So7nShfeCXcJDuQTbT0ODkoZ-b26u8aEsPOdF-_Cv5oN2WdbU/pub?start=false&loop=false&delayms=3000)
+*[20250922 性別、大數據與視覺化 Week 3]()
 
-*[20250923 性別、醫療與健康 Week 3]()
+*[20250923 性別、醫療與健康 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vSM9PafgTD4YhwvRX1VzDc-9_0qvKvh9LYXTrm3coys7uuFwdfPvBIxjgOglbMUcgpLg1B_jkoT7pMw/pub?start=false&loop=false&delayms=3000)
 
 *[20250920 賽伯格與花繩遊戲]()
 
