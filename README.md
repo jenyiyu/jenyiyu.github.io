@@ -3,7 +3,9 @@
 
 *[20250922 性別、大數據與視覺化 Week 3]()
 
-*[20250923 性別、醫療與健康 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vSM9PafgTD4YhwvRX1VzDc-9_0qvKvh9LYXTrm3coys7uuFwdfPvBIxjgOglbMUcgpLg1B_jkoT7pMw/pub?start=false&loop=false&delayms=3000)
+*[20250923 性別、醫療與健康 Week 3]()
+
+*[20250927 女學會圓桌論壇](https://docs.google.com/presentation/d/e/2PACX-1vT0tuZJE3UTvx61-vVUPlvfolmiQD_6mryGfaD33f2OM7Dmt3Lc2i_P3lzlIhLI2mCNHBlWz_VBdGXp/pub?start=false&loop=false&delayms=3000)
 
 *[20250920 賽伯格與花繩遊戲]()
 
