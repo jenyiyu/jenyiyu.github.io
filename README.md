@@ -3,11 +3,11 @@
 
 *[20250922 性別、大數據與視覺化 Week 3]()
 
-*[20250923 性別、醫療與健康 Week 3]()
+*[20250939 性別、醫療與健康 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vQCihX_uJi73BRaAuAn7FLehqvmRA08H64y8RdLzcykCS6RLadcmmoGGs80O16QQ7bb_gQDgzCeJERZ/pub?start=false&loop=false&delayms=3000)
 
-*[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰](https://docs.google.com/presentation/d/e/2PACX-1vT0tuZJE3UTvx61-vVUPlvfolmiQD_6mryGfaD33f2OM7Dmt3Lc2i_P3lzlIhLI2mCNHBlWz_VBdGXp/pub?start=false&loop=false&delayms=3000)
+*[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
-*[20250927 女學會策展經驗與談](https://docs.google.com/presentation/d/e/2PACX-1vQsccjeHU1KXF8i2m20HtbEDza192CH3BfXQCX78JLbGKozlExiIFKb3lJehg55swnysKtYnudCI_zk/pub?start=false&loop=false&delayms=3000)
+*[20250927 女學會策展經驗與談]()
 
 *[20250920 賽伯格與花繩遊戲]()
 
