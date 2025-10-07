@@ -3,7 +3,9 @@
 
 *[20250922 性別、大數據與視覺化 Week 3]()
 
-*[20251007 性別、醫療與健康 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vSfcdkzy3bIWsXyFN-XLepk4OXYijfBGlJr19LQA1MlmZD53WIQd39IIxWMRxLH_U6Pm1p4EvCj1Eq9/pub?start=false&loop=false&delayms=3000)
+*[20251007 性別、醫療與健康 Week 5]()
+
+*[20251008 數位科技與性別](https://docs.google.com/presentation/d/e/2PACX-1vRYMSan6io7Q2nyGynr50fYQSt_OXQUvaVj5HlYcAjxPEmmyvDTDI9BR0vMgw5grOMS64QUEeoo7AR8/pub?start=false&loop=false&delayms=3000)
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
@@ -24,8 +26,6 @@
 *[20230617 Self tracking and health management]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
-
-*[20230515 計算社會科學的方法論與融合可能]()
 
 *[20230428 敘事分析]()
 
