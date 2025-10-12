@@ -1,11 +1,11 @@
 # Presentation
-*[20250922 普通社會學 Week 3]()
+*[20251013 普通社會學 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTWq2n9kAHUDbj_-aQdqPsaVfKi1Hhq_msfXWThv0Y656P_0GY1y9ATHS_JU1oWSP1GsgMJOn7W1WAw/pub?start=false&loop=false&delayms=3000)
 
 *[20250922 性別、大數據與視覺化 Week 3]()
 
 *[20251007 性別、醫療與健康 Week 5]()
 
-*[20251008 數位科技與性別](https://docs.google.com/presentation/d/e/2PACX-1vRYMSan6io7Q2nyGynr50fYQSt_OXQUvaVj5HlYcAjxPEmmyvDTDI9BR0vMgw5grOMS64QUEeoo7AR8/pub?start=false&loop=false&delayms=3000)
+*[20251008 數位科技與性別]()
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
