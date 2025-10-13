@@ -3,7 +3,7 @@
 
 *[20251013 性別、大數據與視覺化 Week 6]()
 
-*[20251007 性別、醫療與健康 Week 5]()
+*[20251014 性別、醫療與健康 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vSfcUKaP9BaTkx-ari96gEHd5_OtDAEux7Z0jvHNVO8of8HV_7o4xSqjmBFbe_TfXFf6MsLJ3F6CjOh/pub?start=false&loop=false&delayms=3000)
 
 *[20251014 超高齡解方](https://docs.google.com/presentation/d/e/2PACX-1vTLVcXu4xtpX63fFVeiIpJ-Mkb-PxhTTCujEQKZwI0FWBfU3wbZJ25ah4PjRIUeFiZxhH8doONYT2Mp/pub?start=false&loop=false&delayms=3000)
 
