@@ -1,9 +1,9 @@
 # Presentation
-*[20251020 普通社會學 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vTNHt7YUUdHgi5_bTZvwoar-muHkZKpatvaDubPnixTvKKmTa7RPSCa7KAOfgNzcTCtZNgUaxdhMoBZ/pub?start=false&loop=false&delayms=3000)
+*[20251020 普通社會學 Week 7]()
 
-*[20251020 性別、大數據與視覺化 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vTSBQijUeL8WLJM9tduimeSGEka_xsog-CUSxAI9t5uzZde4xlSJiZcWrx3vP2kC94sLeFCVwqemdis/pub?start=false&loop=false&delayms=3000)
+*[20251020 性別、大數據與視覺化 Week 7]()
 
-*[20251014 性別、醫療與健康 Week 6]()
+*[20251021 性別、醫療與健康 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vQEmz_e-BFrq6ysMe9aiTkXu5uhgwfgQeqxCYMnciC_tCgnwBqHBJWHrDlbijFmdB55RFEhY7UE-CPd/pub?start=false&loop=false&delayms=3000)
 
 *[20251015 AI的偏見代碼]()
 
