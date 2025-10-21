@@ -3,7 +3,7 @@
 
 *[20251020 性別、大數據與視覺化 Week 7]()
 
-*[20251021 性別、醫療與健康 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vQEmz_e-BFrq6ysMe9aiTkXu5uhgwfgQeqxCYMnciC_tCgnwBqHBJWHrDlbijFmdB55RFEhY7UE-CPd/pub?start=false&loop=false&delayms=3000)
+*[20251021 性別、醫療與健康 Week 7]()
 
 *[20251015 AI的偏見代碼]()
 
