@@ -1,7 +1,7 @@
 # Presentation
-*[20251020 普通社會學 Week 7]()
+*[20251027 普通社會學 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vSD5xMw6SV4CySjs0ZNzAOBMG8fACPP8bYQfwJQt6Lbpw9uZFWrJLwg1jDnKfTnFcIWa2kcxx5JH_yd/pub?start=false&loop=false&delayms=3000)
 
-*[20251020 性別、大數據與視覺化 Week 7]()
+*[20251027 性別、大數據與視覺化 Week 8]()
 
 *[20251021 性別、醫療與健康 Week 7]()
 
