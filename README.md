@@ -1,9 +1,11 @@
 # Presentation
 *[20251027 普通社會學 Week 8]()
 
-*[20251027 性別、大數據與視覺化 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vRC760i1m-bXZz1F79qx-Dmum87qe8HZr6mqA5EsDY2HmQ26IG5aHwFIgwexOtaDsy7ttX5TEy_cdZ2/pub?start=false&loop=false&delayms=3000)
+*[20251027 性別、大數據與視覺化 Week 8]()
 
 *[20251021 性別、醫療與健康 Week 7]()
+
+*[20251028 人工流產與醫療社會性](https://docs.google.com/presentation/d/e/2PACX-1vTM2frV0y97i5WPDmKJcu68HAuqa3Q_TOW-DnYIUrvoD0nntSWKiN65fVnmcYF_4epPDKoeahFWIW13/pub?start=false&loop=false&delayms=3000)
 
 *[20251015 AI的偏見代碼]()
 
@@ -26,8 +28,6 @@
 *[20230617 Self tracking and health management]()
 
 *[20230214 公共化AI 開放資料的3D剖面]()
-
-*[20230428 敘事分析]()
 
 *[20230206 春之鬧 數位社會新挑戰]()
 
