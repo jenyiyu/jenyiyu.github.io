@@ -3,9 +3,9 @@
 
 *[20251027 性別、大數據與視覺化 Week 8]()
 
-*[20251021 性別、醫療與健康 Week 7]()
+*[20251021 性別、醫療與健康 Week 8]()
 
-*[20251028 人工流產與醫療社會性](https://docs.google.com/presentation/d/e/2PACX-1vTM2frV0y97i5WPDmKJcu68HAuqa3Q_TOW-DnYIUrvoD0nntSWKiN65fVnmcYF_4epPDKoeahFWIW13/pub?start=false&loop=false&delayms=3000)
+*[20251105 從資料女性主義談AI政治](https://docs.google.com/presentation/d/e/2PACX-1vT4fopATi4V08pwiv8ofA8AQ6fD6gC4qS3bSFydPtVgMIyBZMzpjbJORsmh-q3Z86epuixcUEqRINPJ/pub?start=false&loop=false&delayms=3000)
 
 *[20251015 AI的偏見代碼]()
 
