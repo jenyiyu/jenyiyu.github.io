@@ -1,9 +1,9 @@
 # Presentation
-*[20251110 普通社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQqDLh2XLGfUt_IDEf4Sk0muXRsYUEhAFJlcIq7H2TDnyG9CCP5ePGsRyFUppzPfnT7pDEAkLmjWK29/pub?start=false&loop=false&delayms=3000)
+*[20251110 普通社會學 Week 10]()
 
 *[20251110 性別、大數據與視覺化 Week 10]()
 
-*[20251111 性別、醫療與健康 Week 10]()
+*[20251111 性別、醫療與健康 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vSVbkS7TE_4QhyUKGrM7tTNkKDJpsOMlcaAXA9WyL0Iw_5PR-Ai1xoGLApJ6ODQXQRVt3AM-nW197Dw/pub?start=false&loop=false&delayms=3000)
 
 *[20251105 從資料女性主義談AI政治]()
 
