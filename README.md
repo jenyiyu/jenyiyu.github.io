@@ -1,11 +1,11 @@
 # Presentation
-*[20251027 普通社會學 Week 8]()
+*[20251110 普通社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQqDLh2XLGfUt_IDEf4Sk0muXRsYUEhAFJlcIq7H2TDnyG9CCP5ePGsRyFUppzPfnT7pDEAkLmjWK29/pub?start=false&loop=false&delayms=3000)
 
-*[20251027 性別、大數據與視覺化 Week 8]()
+*[20251110 性別、大數據與視覺化 Week 10]()
 
-*[20251021 性別、醫療與健康 Week 8]()
+*[20251111 性別、醫療與健康 Week 10]()
 
-*[20251105 從資料女性主義談AI政治](https://docs.google.com/presentation/d/e/2PACX-1vT4fopATi4V08pwiv8ofA8AQ6fD6gC4qS3bSFydPtVgMIyBZMzpjbJORsmh-q3Z86epuixcUEqRINPJ/pub?start=false&loop=false&delayms=3000)
+*[20251105 從資料女性主義談AI政治]()
 
 *[20251015 AI的偏見代碼]()
 
