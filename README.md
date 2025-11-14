@@ -3,9 +3,9 @@
 
 *[20251110 性別、大數據與視覺化 Week 10]()
 
-*[20251111 性別、醫療與健康 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vSVbkS7TE_4QhyUKGrM7tTNkKDJpsOMlcaAXA9WyL0Iw_5PR-Ai1xoGLApJ6ODQXQRVt3AM-nW197Dw/pub?start=false&loop=false&delayms=3000)
+*[20251111 性別、醫療與健康 Week 10]()
 
-*[20251105 從資料女性主義談AI政治]()
+*[20251115 開放資料政策](https://docs.google.com/presentation/d/e/2PACX-1vR7aCCpdgzolT9IPctzW04daVKm2uzalDcmWrjjXc99J93z4bIernF1k-3bIqa7qufV3ofcwoYsa3mL/pub?start=false&loop=false&delayms=3000)
 
 *[20251015 AI的偏見代碼]()
 
