@@ -7,6 +7,8 @@
 
 *[20251115 開放資料政策](https://docs.google.com/presentation/d/e/2PACX-1vR7aCCpdgzolT9IPctzW04daVKm2uzalDcmWrjjXc99J93z4bIernF1k-3bIqa7qufV3ofcwoYsa3mL/pub?start=false&loop=false&delayms=3000)
 
+*[20251115 性別與實踐場次評論](https://docs.google.com/presentation/d/e/2PACX-1vQXjQCtf6Pke7JlzfJ9kzLAOw_XDFsEx9rLoGS3xHkMtkW_rpYlBX70LThwsHLZUWxfUxRBSMwthz0v/pub?start=false&loop=false&delayms=3000)
+
 *[20251015 AI的偏見代碼]()
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
@@ -14,8 +16,6 @@
 *[20250927 女學會策展經驗與談]()
 
 *[20250920 賽伯格與花繩遊戲]()
-
-*[20250908 AI tools regulations]()
 
 *[20250723 國家太空中心 科技與性別]()
 
