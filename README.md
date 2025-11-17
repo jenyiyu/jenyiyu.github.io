@@ -1,13 +1,13 @@
 # Presentation
-*[20251110 普通社會學 Week 10]()
+*[20251117 普通社會學 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vRc5har03H3VA1H7_1jJUJQvfduP26uMNkxz1QUeIUQPvYWHFlv20ngEjkjgtHtHBQHV7AuNDyCwOKG/pub?start=false&loop=false&delayms=3000)
 
-*[20251110 性別、大數據與視覺化 Week 10]()
+*[20251117 性別、大數據與視覺化 Week 11]()
 
-*[20251111 性別、醫療與健康 Week 10]()
+*[20251118 性別、醫療與健康 Week 11]()
 
-*[20251115 開放資料政策](https://docs.google.com/presentation/d/e/2PACX-1vR7aCCpdgzolT9IPctzW04daVKm2uzalDcmWrjjXc99J93z4bIernF1k-3bIqa7qufV3ofcwoYsa3mL/pub?start=false&loop=false&delayms=3000)
+*[20251115 開放資料政策]()
 
-*[20251115 性別與實踐場次評論](https://docs.google.com/presentation/d/e/2PACX-1vQXjQCtf6Pke7JlzfJ9kzLAOw_XDFsEx9rLoGS3xHkMtkW_rpYlBX70LThwsHLZUWxfUxRBSMwthz0v/pub?start=false&loop=false&delayms=3000)
+*[20251115 性別與實踐場次評論]()
 
 *[20251015 AI的偏見代碼]()
 
