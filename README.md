@@ -1,15 +1,15 @@
 # Presentation
-*[20251124 普通社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vT9rjOEIep7lvRxAQHRGUTF1yxpDRqhSK9KbCfDSdgr7eLe-kQnOlcnmnbRwIczeU889wCHWHM69UxG/pub?start=false&loop=false&delayms=3000)
+*[20251124 普通社會學 Week 12]()
 
 *[20251124 性別、大數據與視覺化 Week 12]()
 
-*[20251125 性別、醫療與健康 Week 12]()
+*[20251125 性別、醫療與健康 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vTafnsm_obLtbdS22pL0QhNNg6jRvFoxqBMhSqNid0QHepgTeRkga0A9BIc5Ga0LzXkF9bm9FtiSiFa/pub?start=false&loop=false&delayms=3000)
 
 *[20251115 開放資料政策]()
 
 *[20251115 性別與實踐場次評論]()
 
-*[20251015 AI的偏見代碼]()
+*[20251125 AI的偏見代碼](https://docs.google.com/presentation/d/e/2PACX-1vQONqg5_vNIItnNKNBo3SWt1lcoMkGfP4UqI5mLAWy_tgD_DNkorf-u5e5M1HrsYeG0BiqBAWuZPOl4/pub?start=false&loop=false&delayms=3000)
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
