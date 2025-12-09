@@ -3,7 +3,7 @@
 
 *[20251201 性別、大數據與視覺化 Week 13]()
 
-*[20251209 性別、醫療與健康 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vQwG8bx-ypMcW-YwnLpxReU6Xu_UUqifSo9fTn59WlsFjS5YTNqzDBuDZnehK8s0UPWADw4zMCnWmmF/pub?start=false&loop=false&delayms=3000)
+*[20251209 性別、醫療與健康 Week 14]()
 
 *[20251115 開放資料政策]()
 
