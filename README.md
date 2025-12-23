@@ -1,9 +1,9 @@
 # Presentation
-*[20251222 普通社會學 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vQSD1LiIcG-u5Nowr55xmemEETaeROU_FiBLJsdaoDy7_bnoZ1kbW-chUACSOJb8IuorR1U3Uo0oNEK/pub?start=false&loop=false&delayms=3000)
+*[20251222 普通社會學 Week 16]()
 
 *[20251222 性別、大數據與視覺化 Week 16]()
 
-*[20251223 性別、醫療與健康 Week 16]()
+*[20251223 性別、醫療與健康 Week 16](https://docs.google.com/presentation/d/e/2PACX-1vQ_X7ikL1S3nv4n7E_fuf4Be-ybXXhky0ykT0RU7MsDzEVqt8V-wAMxlmzdDt-pRSQAdHYysFFHhfYq/pub?start=false&loop=false&delayms=3000)
 
 *[20251210 基因與社會行為 性別天生？]()
 
