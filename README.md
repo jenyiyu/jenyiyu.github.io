@@ -1,5 +1,5 @@
 # Presentation
-*[20251229 普通社會學 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vRLueo0KkImGet5R74inWN7OPmBUul3NByUIbKzfR9UIhNohToYedYI_PxC82W5CREO60oyiGzC0_8U/pub?start=false&loop=false&delayms=3000)
+*[20251229 普通社會學 Week 17]()
 
 *[20251222 性別、大數據與視覺化 Week 16]()
 
