@@ -1,9 +1,9 @@
 # Presentation
-*[20251229 普通社會學 Week 17]()
+*[20260225 醫療社會與人生 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vSEoXBMLhIVdEE1eNqY4CIRtU-WLxXEWTzT4h0yXR4Y9AAwil9lX14hiVLVW1Z1Ni156k02iT9FaW0k/pub?start=false&loop=false&delayms=3000)
 
-*[20251222 性別、大數據與視覺化 Week 16]()
+*[20260226 工作、身體與時空 Week 1]()
 
-*[20251223 性別、醫療與健康 Week 16]()
+*[20260227 社會學 Week 1]()
 
 *[20251210 基因與社會行為 性別天生？]()
 
