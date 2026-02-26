@@ -1,7 +1,7 @@
 # Presentation
-*[20260225 醫療社會與人生 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vSEoXBMLhIVdEE1eNqY4CIRtU-WLxXEWTzT4h0yXR4Y9AAwil9lX14hiVLVW1Z1Ni156k02iT9FaW0k/pub?start=false&loop=false&delayms=3000)
+*[20260225 醫療社會與人生 Week 1]()
 
-*[20260226 工作、身體與時空 Week 1]()
+*[20260226 工作、身體與時空 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vSWxWxkr9Ya4u1pQ_4SW4Eg0cQ5R2ZSr-YW8gARoSJzf4TUzQnKEQgBt2Lj-3DRcuKzLbov28_IlWNS/pub?start=false&loop=false&delayms=3000)
 
 *[20260227 社會學 Week 1]()
 
