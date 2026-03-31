@@ -1,9 +1,9 @@
 # Presentation
-*[20260325 醫療社會與人生 Week 5]()
+*[20260401 醫療社會與人生 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vQnH3ZXKf-y86uO4glP7RupwMZsVpnSRmuB_IGLB49UkQo_Em2yRgHXw1utoQ2p9zYaxE9BzTtD1vxv/pub?start=false&loop=false&delayms=3000)
 
 *[20260326 工作、身體與時空 Week 5]()
 
-*[20260327 社會學 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vSnQLIjRvaJkElq5rLOz4hkpBBAs_iy9Y2-oCltI7N5LS_SlIG7gAJBHNyCeL2R06nj1aIhD4li-Ub2/pub?start=false&loop=false&delayms=3000)
+*[20260327 社會學 Week 5]()
 
 *[20251210 基因與社會行為 性別天生？]()
 
