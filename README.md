@@ -1,11 +1,11 @@
 # Presentation
-*[20260415 醫療社會與人生 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vTDABE-chZAJWtmiRL71awtbFsmLEc6jWWlurPqcj2mpDSlo14jrZ6L-uZwdW0-zF0PsMHMzVAKFysI/pub?start=false&loop=false&delayms=3000)
+*[20260415 醫療社會與人生 Week 8]()
 
 *[20260416 工作、身體與時空 Week 8]()
 
 *[20260417 社會學 Week 8]()
 
-*[20251210 基因與社會行為 性別天生？]()
+*[20260416 116招生實體活動規劃](https://docs.google.com/presentation/d/e/2PACX-1vQhOOZWZzfzFkJhyNU4mFLMtRDo4aihUgob7qGJlNLayvs0cUb3Vfrv7xrINz8A_KuHwAwwCYux3DQd/pub?start=false&loop=false&delayms=3000)
 
 *[20251115 開放資料政策]()
 
