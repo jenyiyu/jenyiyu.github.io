@@ -1,11 +1,11 @@
 # Presentation
 *[20260415 醫療社會與人生 Week 8]()
 
-*[20260416 工作、身體與時空 Week 8]()
+*[20260416 工作、身體與時空 Week 8](https://docs.google.com/presentation/d/e/2PACX-1vSvPKTjzKILmj06j-34e6_DbcvUad5tu2lJVJi94__PxallTVY6id7PQBY_4jIRbDPOoZphddh-FSqt/pub?start=false&loop=false&delayms=3000)
 
 *[20260417 社會學 Week 8]()
 
-*[20260416 116招生實體活動規劃](https://docs.google.com/presentation/d/e/2PACX-1vQhOOZWZzfzFkJhyNU4mFLMtRDo4aihUgob7qGJlNLayvs0cUb3Vfrv7xrINz8A_KuHwAwwCYux3DQd/pub?start=false&loop=false&delayms=3000)
+*[20260416 116招生實體活動規劃]()
 
 *[20251115 開放資料政策]()
 
