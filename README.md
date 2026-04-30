@@ -1,7 +1,7 @@
 # Presentation
-*[20260429 醫療社會與人生 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQh0E84LId0Dkvwf5t7WlLLI2D8hJoY8f1Bu6I3SYfWsosnSb7wS6ED2nu7Y6MaVy_ueQaDSwoacFH-/pub?start=false&loop=false&delayms=3000)
+*[20260429 醫療社會與人生 Week 10]()
 
-*[20260416 工作、身體與時空 Week 8]()
+*[20260430 工作、身體與時空 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vR9RR3_R4B2OMvVKd6Cripsjb6YCshgjiCnwGyKZ1_5tpUjdAqrzdKfGI6v3IyhyOI9EHEmBVIKe3Zh/pub?start=false&loop=false&delayms=3000)
 
 *[20260417 社會學 Week 8]()
 
