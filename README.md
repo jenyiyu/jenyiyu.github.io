@@ -1,7 +1,7 @@
 # Presentation
-*[20260513 醫療社會與人生 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vRB1Kj44kQHVNsXtInIbM6fnB-j_RZd1q2GLZwpsdOgrjRtcfp-qUWX781_imy2_aOPyci-2txA4wrc/pub?start=false&loop=false&delayms=3000)
+*[20260513 醫療社會與人生 Week 12]()
 
-*[20260514 工作、身體與時空 Week 12]()
+*[20260514 工作、身體與時空 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vS6zsrWwsZNqcfAxtb1A7J9yilksMG3oRMHwyIhcgJ8ljUSv2okX5FE8VK2Kug6QaI-Q7H4ry3sdOfJ/pub?start=false&loop=false&delayms=3000)
 
 *[20260515 社會學 Week 12]()
 
