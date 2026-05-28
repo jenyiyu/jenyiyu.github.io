@@ -1,9 +1,9 @@
 # Presentation
 *[20260603 醫療社會與人生 Week 15]()
 
-*[20260528 工作、身體與時空 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vR2JkoWDtmyZgyjW25dAHImORNnOtXpeN2dKp6VlLR1Hr2bHsCvN6h65tiXMvGn36LCEeA4Ft23hTWo/pub?start=false&loop=false&delayms=3000)
+*[20260528 工作、身體與時空 Week 14]()
 
-*[20260522 社會學 Week 13]()
+*[20260529 社會學 Week 14](https://docs.google.com/presentation/d/e/2PACX-1vSqx5sXOXHGRuPh8hyof98byqgnhR21JJQhdYZ9FSXUxV3KQwWhSNYpr4pgxXTAqlysDLCOIn2236fb/pub?start=false&loop=false&delayms=3000)
 
 *[20251115 開放資料政策]()
 
