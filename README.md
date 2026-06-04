@@ -1,9 +1,9 @@
 # Presentation
-*[20260603 醫療社會與人生 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vSfrQXUTVG82MJDb1v8aK0GArCWBcT93eh171R3FKrqvjuDfcNNwjPFtvaVYnyYtWczD1ZIh2bWaayS/pub?start=false&loop=false&delayms=3000)
+*[20260603 醫療社會與人生 Week 15]()
 
-*[20260604 工作、身體與時空 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vSzm81T8zfMa_LgNsd5xoRpn1TgbjAe3kjlUyO946bg36DmOKj9Q7v48_adjyvjQlQDUAYsiwCQ0Hjd/pub?start=false&loop=false&delayms=3000)
+*[20260604 工作、身體與時空 Week 15]()
 
-*[20260605 社會學 Week 15]()
+*[20260605 社會學 Week 15](https://docs.google.com/presentation/d/e/2PACX-1vRpoE_zF25d25RXDU_MPkg-zuzx61Z12IR6Gc2pcVdvYdz_cfFGUR3h2AvpizNfC2ypHPjNWeyDV79x/pub?start=false&loop=false&delayms=3000)
 
 *[20251115 開放資料政策]()
 
