@@ -1,11 +1,11 @@
 # Presentation
-*[20260603 醫療社會與人生 Week 15]()
+*[20260617 醫療社會與人生 Week 17]()
 
-*[20260618 工作、身體與時空 Week 17](https://docs.google.com/presentation/d/e/2PACX-1vSDUgaBatVxo6xzxAWbY9fjvktAIlguJPiwHO8i03fSatz1taWyUN5-Y1sQkAuHtKarEG3QQkNrmEyK/pub?start=false&loop=false&delayms=3000)
+*[20260618 工作、身體與時空 Week 17]()
 
 *[20260605 社會學 Week 15]()
 
-*[20251115 開放資料政策]()
+*[20260701 高中人社班專題討論](https://docs.google.com/presentation/d/e/2PACX-1vTme3_0HPPsTU17Qz67Emd_uAEnrgd1swCVb105d6dyWC6eVZiQa2TyLfHc16rbcktr0IXCfQwoJRVQ/pub?start=false&loop=false&delayms=3000)
 
 *[20251115 性別與實踐場次評論]()
 
