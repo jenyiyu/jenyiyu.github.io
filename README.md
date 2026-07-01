@@ -5,7 +5,7 @@
 
 *[20260605 社會學 Week 15]()
 
-*[20260701 高中人社班專題討論](https://docs.google.com/presentation/d/e/2PACX-1vTme3_0HPPsTU17Qz67Emd_uAEnrgd1swCVb105d6dyWC6eVZiQa2TyLfHc16rbcktr0IXCfQwoJRVQ/pub?start=false&loop=false&delayms=3000)
+*[20260701 高中人社班專題討論]()
 
 *[20251115 性別與實踐場次評論]()
 
