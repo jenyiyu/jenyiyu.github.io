@@ -5,9 +5,9 @@
 
 *[20260605 社會學 Week 15]()
 
-*[20260701 高中人社班專題討論]()
+*[20260823 談性別不尷尬](https://docs.google.com/presentation/d/e/2PACX-1vTcJv-PNva70nMKvOHAhywdqZT3_jg5X3vMvaofonC_YJbwqKelBXNgveZRGUuGFtaFgB-mqrA4_JS_/pub?start=false&loop=false&delayms=3000)
 
-*[20260727 我是媽媽也是一位女性主義者](https://docs.google.com/presentation/d/e/2PACX-1vQa0ozQDByv76vUCxxu_W-RlBDr4NqjeWIOvsWEZ0XleC3I0vgzswnhmbxuwpA5sOQwU_pAKZrQ0SHG/pub?start=false&loop=false&delayms=3000)
+*[20260727 我是媽媽也是一位女性主義者]()
 
 *[20251125 AI的偏見代碼]()
 
