@@ -5,7 +5,7 @@
 
 *[20260605 社會學 Week 15]()
 
-*[20260823 談性別不尷尬](https://docs.google.com/presentation/d/e/2PACX-1vTcJv-PNva70nMKvOHAhywdqZT3_jg5X3vMvaofonC_YJbwqKelBXNgveZRGUuGFtaFgB-mqrA4_JS_/pub?start=false&loop=false&delayms=3000)
+*[20260903 編碼關係編碼親密](https://docs.google.com/presentation/d/e/2PACX-1vQ5cIbbkefSYBxKv7Fb9FUF_Tb5khC2bKXMxMtWeys2nalh5tbFVSlYHknOMk_GrsZZwbWgEKCTgiWw/pub?start=false&loop=false&delayms=3000)
 
 *[20260727 我是媽媽也是一位女性主義者]()
 
