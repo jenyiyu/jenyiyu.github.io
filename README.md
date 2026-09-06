@@ -1,11 +1,11 @@
 # Presentation
-*[20260617 醫療社會與人生 Week 17]()
+*[20260907 普通社會學 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vS5OiFgNsRyO52cl7Vi9uEiPhr5vjnhsGZorUrlKzzDmC2JwC-ruf6AYqDXbmU8IlfO4Pb5WHvTP5rg/pub?start=false&loop=false&delayms=3000)
 
-*[20260618 工作、身體與時空 Week 17]()
+*[20260907 性別、醫療與健康 Week 1]()
 
-*[20260605 社會學 Week 15]()
+*[20260909 性別研究導論 Week 1]()
 
-*[20260903 編碼關係編碼親密](https://docs.google.com/presentation/d/e/2PACX-1vQ5cIbbkefSYBxKv7Fb9FUF_Tb5khC2bKXMxMtWeys2nalh5tbFVSlYHknOMk_GrsZZwbWgEKCTgiWw/pub?start=false&loop=false&delayms=3000)
+*[20260903 編碼關係編碼親密]()
 
 *[20260727 我是媽媽也是一位女性主義者]()
 
