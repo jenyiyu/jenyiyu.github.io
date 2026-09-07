@@ -9,7 +9,7 @@
 
 *[20260727 我是媽媽也是一位女性主義者]()
 
-*[20251125 AI的偏見代碼]()
+*[20251125 AI使用規範](https://docs.google.com/presentation/d/e/2PACX-1vR5vUtUx1rH7EyOEl9rf0s_I1wtI_htGr3z3__RfwQ6uuJfo4OaTtkJ82FgpSicyAsrp8XkFrA4k7kh/pub?start=false&loop=false&delayms=3000)
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
