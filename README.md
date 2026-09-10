@@ -3,13 +3,15 @@
 
 *[20260907 性別、醫療與健康 Week 1]()
 
-*[20260909 性別研究導論 Week 1](https://docs.google.com/presentation/d/e/2PACX-1vRzH6oKik6MS6WKRC59Jh71jq_ylntzJfwXS83VgwnCkv-HH4ht260v9dRsBWllGAz8fyl7P7asJsXL/pub?start=false&loop=false&delayms=3000)
+*[20260909 性別研究導論 Week 1]()
+
+*[20260915 114優良教師候選分享](https://docs.google.com/presentation/d/e/2PACX-1vTiSE42JMEne_5dCdhJtVA8uK30J3eYvPh9KsdDbBm0n_eCxV_pmGoh3u1WwcBgi5T8dRLBrE-C-o1h/pub?start=false&loop=false&delayms=3000)
 
 *[20260903 編碼關係編碼親密]()
 
 *[20260727 我是媽媽也是一位女性主義者]()
 
-*[20251125 AI使用規範](https://docs.google.com/presentation/d/e/2PACX-1vR5vUtUx1rH7EyOEl9rf0s_I1wtI_htGr3z3__RfwQ6uuJfo4OaTtkJ82FgpSicyAsrp8XkFrA4k7kh/pub?start=false&loop=false&delayms=3000)
+*[20251125 AI使用規範]()
 
 *[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
 
