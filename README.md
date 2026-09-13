@@ -1,5 +1,5 @@
 # Presentation
-*[20260907 普通社會學 Week 1]()
+*[20260914 普通社會學 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vR1w6uWf4j7TZQUy32DnqrjbCfNB50j4m6BPsSbiCgZGN2_VlnqOL3RDXsxnbRNRx_mYCpi9dw8hYoj/pub?start=false&loop=false&delayms=3000)
 
 *[20260907 性別、醫療與健康 Week 1]()
 
