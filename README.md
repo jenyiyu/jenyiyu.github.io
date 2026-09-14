@@ -1,9 +1,9 @@
 # Presentation
-*[20260914 普通社會學 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vR1w6uWf4j7TZQUy32DnqrjbCfNB50j4m6BPsSbiCgZGN2_VlnqOL3RDXsxnbRNRx_mYCpi9dw8hYoj/pub?start=false&loop=false&delayms=3000)
+*[20260914 普通社會學 Week 2]()
 
-*[20260907 性別、醫療與健康 Week 1]()
+*[20260914 性別、醫療與健康 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vTnXOpIJMNKk198oXwOX0IaL1jBR0G9maJ2PRNtj6qld71xBqnRybDFeUHijPnKgLFDxhP1KQYno8-Z/pub?start=false&loop=false&delayms=3000)
 
-*[20260909 性別研究導論 Week 1]()
+*[20260916 性別研究導論 Week 2]()
 
 *[20260915 114優良教師候選分享](https://docs.google.com/presentation/d/e/2PACX-1vTiSE42JMEne_5dCdhJtVA8uK30J3eYvPh9KsdDbBm0n_eCxV_pmGoh3u1WwcBgi5T8dRLBrE-C-o1h/pub?start=false&loop=false&delayms=3000)
 
