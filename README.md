@@ -1,11 +1,11 @@
 # Presentation
 *[20260914 普通社會學 Week 2]()
 
-*[20260914 性別、醫療與健康 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vTnXOpIJMNKk198oXwOX0IaL1jBR0G9maJ2PRNtj6qld71xBqnRybDFeUHijPnKgLFDxhP1KQYno8-Z/pub?start=false&loop=false&delayms=3000)
+*[20260914 性別、醫療與健康 Week 2]()
 
-*[20260916 性別研究導論 Week 2]()
+*[20260916 性別研究導論 Week 2](https://docs.google.com/presentation/d/e/2PACX-1vRmP1GhcWZciQR_lWnBQKTTX2DuhceajBrkX33oonPW6La9PGdFQTwd7Ng4r1uKGEZY1Nekm_A44Muj/pub?start=false&loop=false&delayms=3000)
 
-*[20260915 114優良教師候選分享](https://docs.google.com/presentation/d/e/2PACX-1vTiSE42JMEne_5dCdhJtVA8uK30J3eYvPh9KsdDbBm0n_eCxV_pmGoh3u1WwcBgi5T8dRLBrE-C-o1h/pub?start=false&loop=false&delayms=3000)
+*[20260915 114優良教師候選分享]()
 
 *[20260903 編碼關係編碼親密]()
 
