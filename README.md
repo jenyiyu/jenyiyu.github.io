@@ -1,13 +1,13 @@
 # Presentation
-*[20260921 普通社會學 Week 3]()
+*[20260921 普通社會學 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vT32EgO0MFAsEaB6ktjJDK_cPx5bnsSOR0OYT6uNoqDbLK9aW-3-yHpF7ZBdk4iIkWLkP99GGX6jDQe/pub?start=false&loop=false&delayms=3000)
 
-*[20260921 性別、醫療與健康 Week 3]()
+*[20260921 性別、醫療與健康 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vSM9PafgTD4YhwvRX1VzDc-9_0qvKvh9LYXTrm3coys7uuFwdfPvBIxjgOglbMUcgpLg1B_jkoT7pMw/pub?start=false&loop=false&delayms=3000)
 
 *[20260923 性別研究導論 Week 3]()
 
 *[20260915 114優良教師候選分享]()
 
-*[20260919 愛上AI 愛/礙了誰？](https://docs.google.com/presentation/d/e/2PACX-1vToPkGlE5r2dCusvpuDWR9qQVrK9zCI0DhY8HIEVZnhNf2j1_cWEeuGUWW0Ud-Yz5wek6YzP3_k1iR1/pub?start=false&loop=false&delayms=3000)
+*[20260919 愛上AI 愛/礙了誰？]()
 
 *[20260727 我是媽媽也是一位女性主義者]()
 
