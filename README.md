@@ -1,9 +1,9 @@
 # Presentation
-*[20260921 普通社會學 Week 3]()
+*[20261005 普通社會學 Week 5]()
 
-*[20260921 性別、醫療與健康 Week 3]()
+*[20261005 性別、醫療與健康 Week 5]()
 
-*[20260923 性別研究導論 Week 3](https://docs.google.com/presentation/d/e/2PACX-1vTZYXlGhR-tYdZQhYa3YQuUFPg6E1OEPas53jjLnZDioYRoARGunNqe1dF_ppnTMpGD9p6wvG2Ude_1/pub?start=false&loop=false&delayms=3000)
+*[20260930 性別研究導論 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vRTvguNa3FQiTLqg8f7tyU2XRE5bTYokNFAbA90rMU3Qe5ec2TGjaHdMOVap0KoQOy21ksiDNkRKfAE/pub?start=false&loop=false&delayms=3000)
 
 *[20260915 114優良教師候選分享]()
 
