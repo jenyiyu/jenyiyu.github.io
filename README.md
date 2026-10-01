@@ -3,9 +3,13 @@
 
 *[20261005 性別、醫療與健康 Week 5]()
 
-*[20260930 性別研究導論 Week 4](https://docs.google.com/presentation/d/e/2PACX-1vRTvguNa3FQiTLqg8f7tyU2XRE5bTYokNFAbA90rMU3Qe5ec2TGjaHdMOVap0KoQOy21ksiDNkRKfAE/pub?start=false&loop=false&delayms=3000)
+*[20260930 性別研究導論 Week 4]()
 
-*[20260915 114優良教師候選分享]()
+*[20261002 女學會年會評論](https://docs.google.com/presentation/d/e/2PACX-1vTpS3MYzcW0tL8J0VM0x2MNR0_ylw3a48oKexFncq2-eYotc7rys2WLg3I9wJ2yrcHG1zua5-T8A5_S/pub?start=false&loop=false&delayms=3000)
+
+*[20261003 社會學會 x 女學會論壇]()
+
+*[20261003 性別暴力科技防治方案]()
 
 *[20260919 愛上AI 愛/礙了誰？]()
 
