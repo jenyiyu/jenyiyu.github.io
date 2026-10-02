@@ -7,9 +7,9 @@
 
 *[20261002 女學會年會評論](https://docs.google.com/presentation/d/e/2PACX-1vTpS3MYzcW0tL8J0VM0x2MNR0_ylw3a48oKexFncq2-eYotc7rys2WLg3I9wJ2yrcHG1zua5-T8A5_S/pub?start=false&loop=false&delayms=3000)
 
-*[20261003 社會學會 x 女學會論壇]()
+*[20261003 社會學會 x 女學會論壇](https://docs.google.com/presentation/d/e/2PACX-1vQbRbkJVBkQrliZbFUfRObP0kWfOgjtPcqmL35E6n0Cyu9pBfMtrkvRz4PdPUn7Vb0hD5hOCIZ-uWyf/pub?start=false&loop=false&delayms=3000)
 
-*[20261003 性別暴力科技防治方案]()
+*[20261003 性別暴力科技防治方案](https://docs.google.com/presentation/d/e/2PACX-1vRPZ3Ih5kdcGH_ayFhVjJCZg8pbHjj46K_PbGOWeZaN_Hu7YISf9PHPCW4nrdrY87ymL76CsWHmEOci/pub?start=false&loop=false&delayms=3000)
 
 *[20260919 愛上AI 愛/礙了誰？]()
 
