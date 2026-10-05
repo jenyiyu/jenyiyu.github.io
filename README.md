@@ -1,11 +1,11 @@
 # Presentation
 *[20261005 普通社會學 Week 5]()
 
-*[20261005 性別、醫療與健康 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vQCihX_uJi73BRaAuAn7FLehqvmRA08H64y8RdLzcykCS6RLadcmmoGGs80O16QQ7bb_gQDgzCeJERZ/pub?start=false&loop=false&delayms=3000)
+*[20261005 性別、醫療與健康 Week 5]()
 
 *[20260930 性別研究導論 Week 4]()
 
-*[20261002 女學會年會評論]()
+*[20261006 超高齡解方](https://docs.google.com/presentation/d/e/2PACX-1vTLVcXu4xtpX63fFVeiIpJ-Mkb-PxhTTCujEQKZwI0FWBfU3wbZJ25ah4PjRIUeFiZxhH8doONYT2Mp/pub?start=false&loop=false&delayms=3000)
 
 *[20261003 社會學會 x 女學會論壇]()
 
