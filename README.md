@@ -3,7 +3,7 @@
 
 *[20261005 性別、醫療與健康 Week 5]()
 
-*[20261006 性別研究導論 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vQOpB0oIVQGboxDiXUPUdO2vfXvupuS5d0-r5KrNYLcVr3GWYyAjw9gKczybS00N_Hg4RSeYNfeUPKP/pub?start=false&loop=false&delayms=3000)
+*[20261007 性別研究導論 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vQOpB0oIVQGboxDiXUPUdO2vfXvupuS5d0-r5KrNYLcVr3GWYyAjw9gKczybS00N_Hg4RSeYNfeUPKP/pub?start=false&loop=false&delayms=3000)
 
 *[20261006 超高齡解方]()
 
