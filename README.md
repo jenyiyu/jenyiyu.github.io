@@ -1,15 +1,15 @@
 # Presentation
-*[20261005 普通社會學 Week 5]()
+*[20261012 普通社會學 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vTNHt7YUUdHgi5_bTZvwoar-muHkZKpatvaDubPnixTvKKmTa7RPSCa7KAOfgNzcTCtZNgUaxdhMoBZ/pub?start=false&loop=false&delayms=3000)
 
-*[20261005 性別、醫療與健康 Week 5]()
+*[20261012 性別、醫療與健康 Week 6](https://docs.google.com/presentation/d/e/2PACX-1vSfcdkzy3bIWsXyFN-XLepk4OXYijfBGlJr19LQA1MlmZD53WIQd39IIxWMRxLH_U6Pm1p4EvCj1Eq9/pub?start=false&loop=false&delayms=3000)
 
-*[20261007 性別研究導論 Week 5](https://docs.google.com/presentation/d/e/2PACX-1vQOpB0oIVQGboxDiXUPUdO2vfXvupuS5d0-r5KrNYLcVr3GWYyAjw9gKczybS00N_Hg4RSeYNfeUPKP/pub?start=false&loop=false&delayms=3000)
+*[20261007 性別研究導論 Week 5]()
 
 *[20261006 超高齡解方]()
 
 *[20261003 社會學會 x 女學會論壇]()
 
-*[20261003 性別暴力科技防治方案](https://docs.google.com/presentation/d/e/2PACX-1vRPZ3Ih5kdcGH_ayFhVjJCZg8pbHjj46K_PbGOWeZaN_Hu7YISf9PHPCW4nrdrY87ymL76CsWHmEOci/pub?start=false&loop=false&delayms=3000)
+*[20261003 性別暴力科技防治方案]()
 
 *[20260919 愛上AI 愛/礙了誰？]()
 
