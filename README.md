@@ -1,7 +1,7 @@
 # Presentation
-*[20261019 普通社會學 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vSD5xMw6SV4CySjs0ZNzAOBMG8fACPP8bYQfwJQt6Lbpw9uZFWrJLwg1jDnKfTnFcIWa2kcxx5JH_yd/pub?start=false&loop=false&delayms=3000)
+*[20261019 普通社會學 Week 7]()
 
-*[20261019 性別、醫療與健康 Week 7]()
+*[20261019 性別、醫療與健康 Week 7](https://docs.google.com/presentation/d/e/2PACX-1vSfcUKaP9BaTkx-ari96gEHd5_OtDAEux7Z0jvHNVO8of8HV_7o4xSqjmBFbe_TfXFf6MsLJ3F6CjOh/pub?start=false&loop=false&delayms=3000)
 
 *[20261007 性別研究導論 Week 5]()
 
