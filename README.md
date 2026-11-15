@@ -1,6 +1,8 @@
 # Presentation
 *[20261109 普通社會學 Week 10](https://docs.google.com/presentation/d/e/2PACX-1vQqDLh2XLGfUt_IDEf4Sk0muXRsYUEhAFJlcIq7H2TDnyG9CCP5ePGsRyFUppzPfnT7pDEAkLmjWK29/pub?start=false&loop=false&delayms=3000)
 
+*[20261116 普通社會學 Week 11](https://docs.google.com/presentation/d/e/2PACX-1vRc5har03H3VA1H7_1jJUJQvfduP26uMNkxz1QUeIUQPvYWHFlv20ngEjkjgtHtHBQHV7AuNDyCwOKG/pub?start=false&loop=false&delayms=3000)
+
 *[20261019 性別、醫療與健康 Week 9]()
 
 *[20261007 性別研究導論 Week 5]()
@@ -16,10 +18,6 @@
 *[20260727 我是媽媽也是一位女性主義者]()
 
 *[20251125 AI使用規範]()
-
-*[20250927 女學會圓桌論壇_價值關懷轉化公共書寫的挑戰]()
-
-*[20250927 女學會策展經驗與談]()
 
 *[20250920 賽伯格與花繩遊戲]()
 
