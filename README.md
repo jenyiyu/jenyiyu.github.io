@@ -1,7 +1,7 @@
 # Presentation
 *[20261123 普通社會學 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vT9rjOEIep7lvRxAQHRGUTF1yxpDRqhSK9KbCfDSdgr7eLe-kQnOlcnmnbRwIczeU889wCHWHM69UxG/pub?start=false&loop=false&delayms=3000)
 
-*[20261123 性別、醫療與健康 Week 12]()
+*[20261123 性別、醫療與健康 Week 12](https://docs.google.com/presentation/d/e/2PACX-1vTafnsm_obLtbdS22pL0QhNNg6jRvFoxqBMhSqNid0QHepgTeRkga0A9BIc5Ga0LzXkF9bm9FtiSiFa/pub?start=false&loop=false&delayms=3000)
 
 *[20261007 性別研究導論 Week 5]()
 
